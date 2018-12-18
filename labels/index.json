@@ -2,6 +2,18 @@
   "data" : 
 {
  
+ "Intro_Text_Start":{
+  
+"de":"<h1>Willkommen bei EaMo - Lernen Sie wieder richtig zu Essen!</h1><p>In dieser Anwendung analysieren wir Ihr Essverhalten und coachen Sie aktiv für eine dauerhaft ausgewogene Ernährung und ein gesundes Gewicht.</p>"
+  
+},
+ 
+ "Registrieren":{
+  
+"de":"<p>Registrieren</p>"
+  
+},
+ 
  "Einloggen":{
   
 "de":"<p>Anmelden</p>"
