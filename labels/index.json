@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Codenummer":{
+  
+"de":"<p>Code-Nummer</p>"
+  
+},
+ 
  "Passwort_aendern_Code_Button":{
   
 "de":"<p>Passwort ändern mit Code</p>"
