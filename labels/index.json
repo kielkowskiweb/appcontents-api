@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Passwort_vergessen_absenden":{
+  
+"de":"<p>Code zusenden</p>"
+  
+},
+ 
  "SignIn_Benutzer_Passwort_falsch":{
   
 "de":"<p>Email-Adresse oder Passwort falsch.</p>"
