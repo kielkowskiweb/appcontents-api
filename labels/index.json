@@ -4,25 +4,25 @@
  
  "SignUp_Check_PW_LEN":{
   
-"de":"<p>Passwort ist mindestens 8 Zeichen lang.</p>"
+"de":"<p>Passwort ist min. 8 Zeichen lang.</p>"
   
 },
  
  "SignUp_Check_PW_NUM":{
   
-"de":"<p>Passwort beinhaltet min. 1 Zahl</p>"
+"de":"<p>Passwort enthält min. 1 Zahl</p>"
   
 },
  
  "SignUp_Check_PW_KB":{
   
-"de":"<p>Passwort beinhaltet min. 1 Kleinbuchstaben</p>"
+"de":"<p>Passwort enthält min. 1 Kleinbuchstaben</p>"
   
 },
  
  "SignUp_Check_PW_GB":{
   
-"de":"<p>Passwort beinhaltet min. 1 Großbuchstaben</p>"
+"de":"<p>Passwort enthält min. 1 Großbuchstaben</p>"
   
 },
  
