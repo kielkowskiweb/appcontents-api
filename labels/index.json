@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Passwort_aendern_Code_Button":{
+  
+"de":"<p>Passwort ändern mit Code</p>"
+  
+},
+ 
  "Nochmal_senden":{
   
 "de":"<p>Nochmal senden</p>"
