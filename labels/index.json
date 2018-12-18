@@ -2,6 +2,18 @@
   "data" : 
 {
  
+ "Passwort_bestaetigen":{
+  
+"de":"<p>Passwort bestätigen</p>"
+  
+},
+ 
+ "Passwort":{
+  
+"de":"<p>Passwort</p>"
+  
+},
+ 
  "EMail_Adresse":{
   
 "de":"<p>E-Mail Adresse</p>"
