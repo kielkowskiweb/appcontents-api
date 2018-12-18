@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Passwort_vergessen_Erlaeuterung":{
+  
+"de":"<p>Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts.</p><p>Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner. </p>"
+  
+},
+ 
  "Passwort_vergessen_absenden":{
   
 "de":"<p>Code zusenden</p>"
