@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Passwort_vergessen_Text_Login":{
+  
+"de":"<p><strong>Passwort vergessen?</strong> Klicken Sie einfach <a href="/lostpassword" title="">HIER</a> um ein neues Passwort zu vergeben.</p>"
+  
+},
+ 
  "Passwort_bestaetigen":{
   
 "de":"<p>Passwort bestätigen</p>"
