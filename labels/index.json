@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "SignIn_Benutzer_Passwort_falsch":{
+  
+"de":"<p>Email-Adresse oder Passwort falsch.</p>"
+  
+},
+ 
  "SignUp_Benutzer_existiert_Fehler":{
   
 "de":"<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den Login.</p>"
