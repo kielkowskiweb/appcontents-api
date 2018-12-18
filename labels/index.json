@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "EMail_Adresse":{
+  
+"de":"<p>E-Mail Adresse</p>"
+  
+},
+ 
  "Essen_erfassen":{
   
 "de":"<p>Essen erfassen</p>"
