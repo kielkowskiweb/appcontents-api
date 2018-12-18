@@ -2,6 +2,42 @@
   "data" : 
 {
  
+ "SignUp_Check_PW_LEN":{
+  
+"de":"<p>Passwort ist mindestens 8 Zeichen lang.</p>"
+  
+},
+ 
+ "SignUp_Check_PW_NUM":{
+  
+"de":"<p>Passwort beinhaltet min. 1 Zahl</p>"
+  
+},
+ 
+ "SignUp_Check_PW_KB":{
+  
+"de":"<p>Passwort beinhaltet min. 1 Kleinbuchstaben</p>"
+  
+},
+ 
+ "SignUp_Check_PW_GB":{
+  
+"de":"<p>Passwort beinhaltet min. 1 Großbuchstaben</p>"
+  
+},
+ 
+ "SignUp_Check_PW_ident":{
+  
+"de":"<p>Passwörter sind gleich</p>"
+  
+},
+ 
+ "SignUp_Check_Email":{
+  
+"de":"<p>Gültige Emailadresse</p>"
+  
+},
+ 
  "Passwort_vergessen_Button":{
   
 "de":"<p>Passwort vergessen</p>"
