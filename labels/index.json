@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Fehlerhafte_Angaben":{
+  
+"de":"<p>Bitte prüfen Sie die eingegebenen Daten.</p>"
+  
+},
+ 
  "Passwort_aendern":{
   
 "de":"<p>Passwort Ändern</p>"
