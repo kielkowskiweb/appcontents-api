@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Favoriten":{
+  
+"de":"&lt;p&gt;Favoriten&lt;/p&gt;"
+  
+},
+ 
  "Landing_Button_Intro":{
   
 "de":"&lt;p&gt;Wählen Sie hier Ihre Anwendung aus:&lt;/p&gt;"
