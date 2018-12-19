@@ -52,7 +52,7 @@
  
  "SignUp_Benutzer_existiert_Fehler":{
   
-"de":"&lt;p&gt;Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den &lt;a href=&#34;/signin&#34; title=&#34;&#34;&gt;Login.&lt;/a&gt;&lt;/p&gt;"
+"de":"&lt;p&gt;Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den&lt;a href=&#34;/signin&#34; title=&#34;&#34;&gt; Login.&lt;/a&gt;&lt;/p&gt;"
   
 },
  
