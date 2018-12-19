@@ -100,7 +100,7 @@
  
  "Passwort_vergessen_Text_Login":{
   
-"de":"&lt;p&gt;&lt;strong&gt;Passwort vergessen?&lt;/strong&gt; Klicken Sie einfach hier um ein neues Passwort zu vergeben:&lt;/p&gt;"
+"de":"&lt;p&gt;&lt;strong&gt;Passwort vergessen?&lt;/strong&gt; Klicken Sie einfach &lt;a href=&#34;/lostpassword&#34; title=&#34;&#34;&gt;HIER&lt;/a&gt; um ein neues Passwort zu vergeben.&lt;/p&gt;"
   
 },
  
