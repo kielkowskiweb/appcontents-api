@@ -4,145 +4,145 @@
  
  "Fehlerhafte_Angaben":{
   
-"de":"<p>Bitte prüfen Sie die eingegebenen Daten.</p>"
+"de":"&lt;p&gt;Bitte prüfen Sie die eingegebenen Daten.&lt;/p&gt;"
   
 },
  
  "Passwort_aendern":{
   
-"de":"<p>Passwort Ändern</p>"
+"de":"&lt;p&gt;Passwort Ändern&lt;/p&gt;"
   
 },
  
  "Codenummer":{
   
-"de":"<p>Code-Nummer</p>"
+"de":"&lt;p&gt;Code-Nummer&lt;/p&gt;"
   
 },
  
  "Passwort_aendern_Code_Button":{
   
-"de":"<p>Passwort ändern mit Code</p>"
+"de":"&lt;p&gt;Passwort ändern mit Code&lt;/p&gt;"
   
 },
  
  "Nochmal_senden":{
   
-"de":"<p>Nochmal senden</p>"
+"de":"&lt;p&gt;Nochmal senden&lt;/p&gt;"
   
 },
  
  "Passwort_vergessen_Erlaeuterung":{
   
-"de":"<p>Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts. Das Zusenden das Passwortes kann einige Minuten in Anspruch nehmen, bitte haben Sie etwas Geduld.</p><p>Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner. Die Absenderadresse lautet no-reply@verificationemail.com</p>"
+"de":"&lt;p&gt;Nach Eingabe Ihrer Emailadresse und Absenden der Anfrage erhalten Sie eine Email mit einer Codenummer zum Ändern Ihres Passworts. Das Zusenden das Passwortes kann einige Minuten in Anspruch nehmen, bitte haben Sie etwas Geduld.&lt;/p&gt;&lt;p&gt;Lassen Sie dieses Browserfenster bitte geöffnet und prüfen Sie Ihre Emails, ggf. auch den SPAM-Ordner. Die Absenderadresse lautet no-reply@verificationemail.com&lt;/p&gt;"
   
 },
  
  "Passwort_vergessen_absenden":{
   
-"de":"<p>Code zusenden</p>"
+"de":"&lt;p&gt;Code zusenden&lt;/p&gt;"
   
 },
  
  "SignIn_Benutzer_Passwort_falsch":{
   
-"de":"<p>Email-Adresse oder Passwort falsch.</p>"
+"de":"&lt;p&gt;Email-Adresse oder Passwort falsch.&lt;/p&gt;"
   
 },
  
  "SignUp_Benutzer_existiert_Fehler":{
   
-"de":"<p>Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den Login.</p>"
+"de":"&lt;p&gt;Für die angegebene Email-Adresse existiert bereits ein Benutzerkonto. Benutzen Sie den Login.&lt;/p&gt;"
   
 },
  
  "SignUp_Check_PW_LEN":{
   
-"de":"<p>Passwort ist min. 8 Zeichen lang.</p>"
+"de":"&lt;p&gt;Passwort ist min. 8 Zeichen lang.&lt;/p&gt;"
   
 },
  
  "SignUp_Check_PW_NUM":{
   
-"de":"<p>Passwort enthält min. 1 Zahl</p>"
+"de":"&lt;p&gt;Passwort enthält min. 1 Zahl&lt;/p&gt;"
   
 },
  
  "SignUp_Check_PW_KB":{
   
-"de":"<p>Passwort enthält min. 1 Kleinbuchstaben</p>"
+"de":"&lt;p&gt;Passwort enthält min. 1 Kleinbuchstaben&lt;/p&gt;"
   
 },
  
  "SignUp_Check_PW_GB":{
   
-"de":"<p>Passwort enthält min. 1 Großbuchstaben</p>"
+"de":"&lt;p&gt;Passwort enthält min. 1 Großbuchstaben&lt;/p&gt;"
   
 },
  
  "SignUp_Check_PW_ident":{
   
-"de":"<p>Passwörter sind identisch</p>"
+"de":"&lt;p&gt;Passwörter sind identisch&lt;/p&gt;"
   
 },
  
  "SignUp_Check_Email":{
   
-"de":"<p>Gültige Emailadresse</p>"
+"de":"&lt;p&gt;Gültige Emailadresse&lt;/p&gt;"
   
 },
  
  "Passwort_vergessen_Button":{
   
-"de":"<p>Passwort vergessen</p>"
+"de":"&lt;p&gt;Passwort vergessen&lt;/p&gt;"
   
 },
  
  "Passwort_vergessen_Text_Login":{
   
-"de":"<p><strong>Passwort vergessen?</strong> Klicken Sie einfach hier um ein neues Passwort zu vergeben:</p>"
+"de":"&lt;p&gt;&lt;strong&gt;Passwort vergessen?&lt;/strong&gt; Klicken Sie einfach hier um ein neues Passwort zu vergeben:&lt;/p&gt;"
   
 },
  
  "Passwort_bestaetigen":{
   
-"de":"<p>Passwort bestätigen</p>"
+"de":"&lt;p&gt;Passwort bestätigen&lt;/p&gt;"
   
 },
  
  "Passwort":{
   
-"de":"<p>Passwort</p>"
+"de":"&lt;p&gt;Passwort&lt;/p&gt;"
   
 },
  
  "EMail_Adresse":{
   
-"de":"<p>E-Mail Adresse</p>"
+"de":"&lt;p&gt;E-Mail Adresse&lt;/p&gt;"
   
 },
  
  "Essen_erfassen":{
   
-"de":"<p>Essen erfassen</p>"
+"de":"&lt;p&gt;Essen erfassen&lt;/p&gt;"
   
 },
  
  "Intro_Text_Start":{
   
-"de":"<h1>Willkommen bei EaMo - Lernen Sie wieder richtig zu Essen!</h1><p>In dieser Anwendung analysieren wir Ihr Essverhalten und coachen Sie aktiv für eine dauerhaft ausgewogene Ernährung und ein gesundes Gewicht.</p>"
+"de":"&lt;h1&gt;Willkommen bei EaMo - Lernen Sie wieder richtig zu Essen!&lt;/h1&gt;&lt;p&gt;In dieser Anwendung analysieren wir Ihr Essverhalten und coachen Sie aktiv für eine dauerhaft ausgewogene Ernährung und ein gesundes Gewicht.&lt;/p&gt;"
   
 },
  
  "Registrieren":{
   
-"de":"<p>Registrieren</p>"
+"de":"&lt;p&gt;Registrieren&lt;/p&gt;"
   
 },
  
  "Einloggen":{
   
-"de":"<p>Einloggen</p>"
+"de":"&lt;p&gt;Einloggen&lt;/p&gt;"
   
 },
  
