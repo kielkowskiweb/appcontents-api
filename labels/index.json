@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Landing_Button_Intro":{
+  
+"de":"&lt;p&gt;Wählen Sie hier Ihre Anwendung aus:&lt;/p&gt;"
+  
+},
+ 
  "Fehlerhafte_Angaben":{
   
 "de":"&lt;p&gt;Bitte prüfen Sie die eingegebenen Daten.&lt;/p&gt;"
