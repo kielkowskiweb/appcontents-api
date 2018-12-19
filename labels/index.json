@@ -46,6 +46,12 @@
  
  "SignIn_Benutzer_Passwort_falsch":{
   
+"de":"&lt;p&gt;Email-Adresse oder Passwort nicht korrekt.&lt;/p&gt;"
+  
+},
+ 
+ "SignIn_Benutzer_existiert_nicht":{
+  
 "de":"&lt;p&gt;Für diese E-Mail Adresse ist noch kein Kundenkonto angelegt. Sie können unter &lt;a href=&#34;/signup&#34; title=&#34;&#34;&gt;Registrieren&lt;/a&gt; ein neues Kundenkonto anlegen.&lt;/p&gt;"
   
 },
