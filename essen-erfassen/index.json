@@ -2,6 +2,36 @@
   "data" : 
 {
  
+ "Label_Uhrzeit":{
+  
+"de":"&lt;p&gt;Uhrzeit&lt;/p&gt;"
+  
+},
+ 
+ "Label_Menge":{
+  
+"de":"&lt;p&gt;Menge&lt;/p&gt;"
+  
+},
+ 
+ "Label_Mahlzeit":{
+  
+"de":"&lt;p&gt;Mahlzeit&lt;/p&gt;"
+  
+},
+ 
+ "Label_Lebensmittel_auswaehlen":{
+  
+"de":"&lt;p&gt;Lebensmittel auswählen&lt;/p&gt;"
+  
+},
+ 
+ "Label_Uhrzeit_Mahlzeit":{
+  
+"de":"&lt;p&gt;Uhrzeit der Mahlzeit auswählen&lt;/p&gt;"
+  
+},
+ 
  "Button_Mahlzeit_hinzufuegen":{
   
 "de":"&lt;p&gt;Mahlzeit hinzufügen&lt;/p&gt;"
