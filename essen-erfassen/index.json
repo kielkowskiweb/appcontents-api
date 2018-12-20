@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Button_Mahlzeit_hinzufuegen":{
+  
+"de":"&lt;p&gt;Mahlzeit hinzufügen&lt;/p&gt;"
+  
+},
+ 
  "Mahlzeit_erfassen":{
   
 "de":"&lt;p&gt;&lt;strong&gt;2. Mahlzeiten erfassen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hier können Sie aus Ihrer Favoritenliste Lebensmittel suchen.&lt;/em&gt;&lt;/p&gt;"
