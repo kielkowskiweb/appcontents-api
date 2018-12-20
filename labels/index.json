@@ -2,6 +2,18 @@
   "data" : 
 {
  
+ "Abbrechen":{
+  
+"de":"&lt;p&gt;Abbrechen&lt;/p&gt;"
+  
+},
+ 
+ "Speichern":{
+  
+"de":"&lt;p&gt;Speichern&lt;/p&gt;"
+  
+},
+ 
  "Abmelden":{
   
 "de":"&lt;p&gt;Abmelden&lt;/p&gt;"
