@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Search_Input_Placeholder":{
+  
+"de":"&lt;p&gt;Aus über 100.000 Lebensmitteln&lt;/p&gt;"
+  
+},
+ 
  "Button_Mahlzeit_speichern":{
   
 "de":"&lt;p&gt;Mahlzeit speichern&lt;/p&gt;"
