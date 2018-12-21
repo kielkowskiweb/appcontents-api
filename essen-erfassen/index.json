@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Favoriten":{
+  
+"de":"&lt;p&gt;Favoriten&lt;/p&gt;"
+  
+},
+ 
  "Search_Input_Placeholder":{
   
 "de":"&lt;p&gt;Aus über 100.000 Lebensmitteln&lt;/p&gt;"
