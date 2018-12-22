@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://appcontent.eat-and-move.com/hilfe/index.json</loc>
+    <lastmod>2018-12-22T10:49:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://appcontent.eat-and-move.com/essen-erfassen/index.json</loc>
     <lastmod>2018-12-20T08:50:45+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://appcontent.eat-and-move.com/index.json</loc>
-    <lastmod>2018-12-20T08:50:45+00:00</lastmod>
+    <lastmod>2018-12-22T10:49:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
