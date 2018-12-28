@@ -3,7 +3,7 @@
 {
   
  
- "abschnitte":"[map[titel:ERKRANKUNGEN - TEIL 1] map[titel:Erkrankungen Teil 2 fragen:[map[fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis] frage:Leber] map[frage:Nehmen Sie Medikamente? fragentyp:Radio optionen:[ja nein]] map[optionen:[] frage:Ich leide an keinen Krankheiten fragentyp:Checkbox]] bild:/uploads/krankheiten_teil2.jpg]]",
+ "abschnitte":"[map[bild:/uploads/krankheiten_teil1.jpg titel:ERKRANKUNGEN - TEIL 1] map[bild:/uploads/krankheiten_teil2.jpg titel:Erkrankungen Teil 2 fragen:[map[frage:Leber fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis]] map[frage:Nehmen Sie Medikamente? fragentyp:Radio optionen:[ja nein]] map[frage:Ich leide an keinen Krankheiten fragentyp:Checkbox optionen:[]]]]]",
  
  "contents":"[]",
  
