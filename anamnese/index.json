@@ -3,7 +3,7 @@
 {
   
  
- "abschnitte":"[map[bild:/uploads/diaeten_und_co.jpg titel:2. DIÄTEN & CO] map[bild:/uploads/arbeit.jpg titel:3. ARBEIT UND BERUF] map[titel:4. ESSGEWOHNHEITEN] map[bild:/uploads/schlafen.jpg titel:5. SCHLAFGEWOHNHEITEN] map[bild:/uploads/sport.jpg titel:6. SPORT] map[bild:/uploads/krankheiten_teil1.jpg titel:7. ERKRANKUNGEN - TEIL 1] map[titel:7. ERKRANKUNGEN - TEIL 2 fragen:[map[frage:Leber fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis]] map[frage:Nehmen Sie Medikamente? fragentyp:Radio optionen:[ja nein]] map[optionen:[] frage:Ich leide an keinen Krankheiten fragentyp:Checkbox]] bild:/uploads/krankheiten_teil2.jpg]]",
+ "abschnitte":"[map[titel:1. ALLGEMEINES – TEIL II] map[bild:/uploads/diaeten_und_co.jpg titel:2. DIÄTEN & CO] map[bild:/uploads/arbeit.jpg titel:3. ARBEIT UND BERUF] map[titel:4. ESSGEWOHNHEITEN] map[bild:/uploads/schlafen.jpg titel:5. SCHLAFGEWOHNHEITEN] map[bild:/uploads/sport.jpg titel:6. SPORT] map[bild:/uploads/krankheiten_teil1.jpg titel:7. ERKRANKUNGEN - TEIL 1] map[bild:/uploads/krankheiten_teil2.jpg titel:7. ERKRANKUNGEN - TEIL 2 fragen:[map[frage:Leber fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis]] map[optionen:[ja nein] frage:Nehmen Sie Medikamente? fragentyp:Radio] map[frage:Ich leide an keinen Krankheiten fragentyp:Checkbox optionen:[]]]]]",
  
  "contents":"[]",
  
