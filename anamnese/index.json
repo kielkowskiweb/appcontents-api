@@ -3,7 +3,7 @@
 {
   
  
- "abschnitte":"[map[bild:/uploads/sport.jpg titel:6. SPORT] map[titel:7. ERKRANKUNGEN - TEIL 1 bild:/uploads/krankheiten_teil1.jpg] map[bild:/uploads/krankheiten_teil2.jpg titel:7. ERKRANKUNGEN - TEIL 2 fragen:[map[frage:Leber fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis]] map[frage:Nehmen Sie Medikamente? fragentyp:Radio optionen:[ja nein]] map[frage:Ich leide an keinen Krankheiten fragentyp:Checkbox optionen:[]]]]]",
+ "abschnitte":"[map[bild:/uploads/schlafen.jpg titel:5. SCHLAFGEWOHNHEITEN] map[bild:/uploads/sport.jpg titel:6. SPORT] map[bild:/uploads/krankheiten_teil1.jpg titel:7. ERKRANKUNGEN - TEIL 1] map[bild:/uploads/krankheiten_teil2.jpg titel:7. ERKRANKUNGEN - TEIL 2 fragen:[map[frage:Leber fragentyp:Checkbox optionen:[Fettleber Erhöhte Leberwerte Zirrhose Hepatitis]] map[frage:Nehmen Sie Medikamente? fragentyp:Radio optionen:[ja nein]] map[fragentyp:Checkbox optionen:[] frage:Ich leide an keinen Krankheiten]]]]",
  
  "contents":"[]",
  
