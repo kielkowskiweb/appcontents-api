@@ -2,6 +2,24 @@
   "data" : 
 {
  
+ "Button_Anamnese_Fertig":{
+  
+"de":"&lt;p&gt;Speichern&lt;/p&gt;"
+  
+},
+ 
+ "Button_Anamnese_Weiter":{
+  
+"de":"&lt;p&gt;weiter&lt;/p&gt;"
+  
+},
+ 
+ "Button_Anamnese_Start":{
+  
+"de":"&lt;p&gt;Los geht&#39;s&lt;/p&gt;"
+  
+},
+ 
  "Anamnese":{
   
 "de":"&lt;p&gt;Anamnese&lt;/p&gt;"
