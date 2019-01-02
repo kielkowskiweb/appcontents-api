@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Hinweis_Pflichtfelder":{
+  
+"de":"&lt;p&gt;Bitte füllen Sie alle Pflichtfelder.&lt;/p&gt;"
+  
+},
+ 
  "Button_Anamnese_Fertig":{
   
 "de":"&lt;p&gt;Speichern&lt;/p&gt;"
