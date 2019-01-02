@@ -481,7 +481,7 @@
     },
     
     "f-6":{
-      "q":"Frühstücken Sie Zuhause?",
+      "q":"Frühstücken Sie Zuhause vor der Arbeit?",
       "e":"",
       "t":"radio",
       "m":true,
