@@ -667,7 +667,7 @@
     
     "f-2":{
       "q":"Wie gut schlafen Sie?",
-      "t":"checkbox",
+      "t":"radio",
       "m":true,
       "i":"",
       
