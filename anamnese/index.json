@@ -987,7 +987,7 @@
     
     "f-7":{
       "q":"Leiden Sie an Krankheiten?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
