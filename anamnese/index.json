@@ -140,7 +140,7 @@
     
     "f-6":{
       "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
@@ -159,7 +159,7 @@
     
     "f-7":{
       "q":"Mein höchstes  Gewicht (in kg) ist/war:",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
