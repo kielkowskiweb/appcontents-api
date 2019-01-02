@@ -1093,7 +1093,7 @@
     
     "f-8":{
       "q":"Wenn ja, welche Medikamente nehmen Sie?",
-      "t":"text",
+      "t":"langtext",
       "m":false,
       "i":"",
       
