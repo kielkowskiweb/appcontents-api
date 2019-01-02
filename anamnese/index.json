@@ -534,7 +534,7 @@
     
     "f-1":{
       "q":"Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
@@ -557,7 +557,7 @@
     
     "f-2":{
       "q":"Essen Sie regelmäßig bis 14 Uhr Mittagessen?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
