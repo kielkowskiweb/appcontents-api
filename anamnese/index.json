@@ -931,7 +931,7 @@
     
     "f-7":{
       "q":"Leiden Sie an Krankheiten?",
-      "t":"checkbox",
+      "t":"radio",
       "m":true,
       "i":"",
       
