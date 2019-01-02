@@ -112,7 +112,7 @@
     },
     
     "f-4":{
-      "q":"Körpergröße",
+      "q":"Körpergröße in cm",
       "t":"zahl",
       "m":true,
       "i":"",
