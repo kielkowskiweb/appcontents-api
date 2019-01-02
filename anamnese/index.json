@@ -99,7 +99,7 @@
     
     "f-3":{
       "q":"Kinder",
-      "e":"&lt;p&gt;*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.&lt;/p&gt;",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.&lt;/strong&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
@@ -120,7 +120,7 @@
     
     "f-4":{
       "q":"Körpergröße in cm",
-      "e":"&lt;p&gt;in cm&lt;/p&gt;",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -130,7 +130,7 @@
     
     "f-5":{
       "q":"Körpergewicht in kg",
-      "e":"&lt;p&gt;in kg&lt;/p&gt;",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
