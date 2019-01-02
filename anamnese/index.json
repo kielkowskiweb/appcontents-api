@@ -354,7 +354,7 @@
     },
     
     "f-5":{
-      "q":"Wie lange ist Ihre letzte Diät her?",
+      "q":"Wie lange liegt Ihre letzte Diät zurück",
       "e":"",
       "t":"radio",
       "m":false,
