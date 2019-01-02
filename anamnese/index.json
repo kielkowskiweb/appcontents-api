@@ -185,7 +185,7 @@
     
     "f-2":{
       "q":"Wenn ja, wie viel rauchen Sie täglich?",
-      "t":"checkbox",
+      "t":"radio",
       "m":false,
       "i":"",
       
