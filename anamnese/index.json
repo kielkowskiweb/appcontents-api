@@ -1139,9 +1139,9 @@
     
     "f-7":{
       "q":"Nehmen Sie Medikamente?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
