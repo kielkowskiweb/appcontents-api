@@ -236,7 +236,7 @@
     
     "f-4":{
       "q":"Wie leben Sie?",
-      "e":"&lt;p&gt;(Mehrfachauswahl möglich)&lt;/p&gt;",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":true,
       "i":"",
