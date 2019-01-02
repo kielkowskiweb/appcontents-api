@@ -121,7 +121,7 @@
     },
     
     "f-5":{
-      "q":"Körpergewicht",
+      "q":"Körpergewicht in kg",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -148,7 +148,7 @@
     },
     
     "f-7":{
-      "q":"Mein höchstes  Gewicht ist/war:",
+      "q":"Mein höchstes  Gewicht (in kg) ist/war:",
       "t":"zahl",
       "m":true,
       "i":"",
