@@ -12,6 +12,7 @@
     
     "f-1":{
       "q":"Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"/uploads/kreis_neu_eamo.png",
@@ -38,6 +39,7 @@
     
     "f-2":{
       "q":"Was wollen Sie erreichen?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -68,6 +70,7 @@
     
     "f-1":{
       "q":"Alter:",
+      "e":"",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -77,6 +80,7 @@
     
     "f-2":{
       "q":"Geschlecht",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -95,6 +99,7 @@
     
     "f-3":{
       "q":"Kinder",
+      "e":"&lt;p&gt;*ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
@@ -115,6 +120,7 @@
     
     "f-4":{
       "q":"Körpergröße in cm",
+      "e":"&lt;p&gt;in cm&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -124,6 +130,7 @@
     
     "f-5":{
       "q":"Körpergewicht in kg",
+      "e":"&lt;p&gt;in kg&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -133,6 +140,7 @@
     
     "f-6":{
       "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -151,6 +159,7 @@
     
     "f-7":{
       "q":"Mein höchstes  Gewicht (in kg) ist/war:",
+      "e":"",
       "t":"zahl",
       "m":true,
       "i":"",
@@ -170,6 +179,7 @@
     
     "f-1":{
       "q":"Rauchen Sie?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -188,6 +198,7 @@
     
     "f-2":{
       "q":"Wenn ja, wie viel rauchen Sie täglich?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -206,6 +217,7 @@
     
     "f-3":{
       "q":"Waren Sie Raucher?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -224,6 +236,7 @@
     
     "f-4":{
       "q":"Wie leben Sie?",
+      "e":"&lt;p&gt;(Mehrfachauswahl möglich)&lt;/p&gt;",
       "t":"checkbox",
       "m":true,
       "i":"",
@@ -260,6 +273,7 @@
     
     "f-1":{
       "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -278,6 +292,7 @@
     
     "f-2":{
       "q":"Wenn ja, wie?",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -302,6 +317,7 @@
     
     "f-3":{
       "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -320,6 +336,7 @@
     
     "f-4":{
       "q":"Wie lang war Ihre längste Diät?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -338,6 +355,7 @@
     
     "f-5":{
       "q":"Wie lange ist Ihre letzte Diät her?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -368,6 +386,7 @@
     
     "f-1":{
       "q":"Wie legen Sie Ihren Arbeitsweg zurück?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -392,6 +411,7 @@
     
     "f-2":{
       "q":"Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?",
+      "e":"",
       "t":"zahl",
       "m":false,
       "i":"",
@@ -401,6 +421,7 @@
     
     "f-3":{
       "q":"Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -419,6 +440,7 @@
     
     "f-4":{
       "q":"Zu welchen Zeiten / Schichten arbeiten Sie?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -441,6 +463,7 @@
     
     "f-5":{
       "q":"Verlassen Sie vor 7:00 Uhr das Haus?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -459,6 +482,7 @@
     
     "f-6":{
       "q":"Frühstücken Sie Zuhause?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -479,6 +503,7 @@
     
     "f-7":{
       "q":"Essen Sie zum Frühstück Kohlehydrate  (Brot, Müsli, Getreide) ?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -509,6 +534,7 @@
     
     "f-1":{
       "q":"Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -531,6 +557,7 @@
     
     "f-2":{
       "q":"Essen Sie regelmäßig bis 14 Uhr Mittagessen?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -553,6 +580,7 @@
     
     "f-3":{
       "q":"Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -573,6 +601,7 @@
     
     "f-4":{
       "q":"Ist das Abendessen Ihre Hauptmahlzeit?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -593,6 +622,7 @@
     
     "f-5":{
       "q":"Essen Sie viel Süßigkeiten / salzige Snacks?",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -613,6 +643,7 @@
     
     "f-6":{
       "q":"Welche Nahrungsunverträglichkeiten  haben Sie?",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -635,6 +666,7 @@
     
     "f-7":{
       "q":"Haben Sie andere Nahrungsmittelunverträglichkeiten?",
+      "e":"",
       "t":"langtext",
       "m":false,
       "i":"",
@@ -654,6 +686,7 @@
     
     "f-1":{
       "q":"Wie lange schlafen Sie?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -674,6 +707,7 @@
     
     "f-2":{
       "q":"Wie gut schlafen Sie?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -696,6 +730,7 @@
     
     "f-3":{
       "q":"Welche Art der Schlafstörung haben Sie?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -726,6 +761,7 @@
     
     "f-1":{
       "q":"Treiben Sie Sport?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -744,6 +780,7 @@
     
     "f-2":{
       "q":"Wie oft treiben Sie Sport?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -772,6 +809,7 @@
     
     "f-3":{
       "q":"Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -792,6 +830,7 @@
     
     "f-4":{
       "q":"Welche Art von Sport treiben Sie?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -824,6 +863,7 @@
     
     "f-1":{
       "q":"Stoffwechselstörungen / Erkrankungen I",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -842,6 +882,7 @@
     
     "f-2":{
       "q":"Stoffwechselstörungen / Erkrankungen II",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -860,6 +901,7 @@
     
     "f-3":{
       "q":"Stoffwechselstörungen / Erkrankungen III",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -880,6 +922,7 @@
     
     "f-4":{
       "q":"Herz-Kreislauf",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -900,6 +943,7 @@
     
     "f-5":{
       "q":"Psychische Erkrankungen – Belastungen",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -920,6 +964,7 @@
     
     "f-6":{
       "q":"Durch was wird Ihr Alltagsstress ausgelöst?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -940,6 +985,7 @@
     
     "f-7":{
       "q":"Leiden Sie an Krankheiten?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -968,6 +1014,7 @@
     
     "f-1":{
       "q":"Leber",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -990,6 +1037,7 @@
     
     "f-2":{
       "q":"Magen",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1010,6 +1058,7 @@
     
     "f-3":{
       "q":"Darm",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1036,6 +1085,7 @@
     
     "f-4":{
       "q":"Nierenerkrankung",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1054,6 +1104,7 @@
     
     "f-5":{
       "q":"Gelenkerkrankungen",
+      "e":"",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1076,6 +1127,7 @@
     
     "f-6":{
       "q":"Sonstige Tumor / Krebserkrankungen",
+      "e":"",
       "t":"text",
       "m":false,
       "i":"",
@@ -1085,6 +1137,7 @@
     
     "f-7":{
       "q":"Nehmen Sie Medikamente?",
+      "e":"",
       "t":"radio",
       "m":false,
       "i":"",
@@ -1103,6 +1156,7 @@
     
     "f-8":{
       "q":"Wenn ja, welche Medikamente nehmen Sie?",
+      "e":"",
       "t":"langtext",
       "m":false,
       "i":"",
@@ -1112,6 +1166,7 @@
     
     "f-9":{
       "q":"Leiden Sie an Krankheiten?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
