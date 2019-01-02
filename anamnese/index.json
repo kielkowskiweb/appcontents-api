@@ -420,8 +420,8 @@
     },
     
     "f-3":{
-      "q":"Üben Sie Ihren Beruf überwiegend sitzend oder  in Bewegung aus?",
-      "e":"",
+      "q":"Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
