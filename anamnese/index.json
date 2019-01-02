@@ -413,7 +413,7 @@
     
     "f-2":{
       "q":"Wie viele Kilometer legen Sie pro Tag einfache Strecke für den Weg zur Arbeit mit dem Rad zurück?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":false,
       "i":"",
