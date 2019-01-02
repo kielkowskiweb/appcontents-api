@@ -412,7 +412,7 @@
     },
     
     "f-2":{
-      "q":"Wie viele Kilometer legen Sie pro Jahr für den Weg zur Arbeit mit dem Rad zurück?",
+      "q":"Wie viele Kilometer legen Sie pro Tag einfache Strecke für den Weg zur Arbeit mit dem Rad zurück?",
       "e":"",
       "t":"zahl",
       "m":false,
