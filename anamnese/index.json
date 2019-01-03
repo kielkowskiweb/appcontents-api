@@ -431,7 +431,7 @@
     },
     
     "f-2":{
-      "q":"Wie viele Kilometer legen Sie pro Tag einfache Strecke für den Weg zur Arbeit mit dem Rad zurück?",
+      "q":"Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg mit dem Fahrrad zurück?",
       "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
       "t":"zahl",
       "m":false,
