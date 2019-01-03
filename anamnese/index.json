@@ -965,7 +965,7 @@
     },
     
     "f-6":{
-      "q":"Durch was wird Ihr Alltagsstress ausgelöst?",
+      "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
       "e":"",
       "t":"radio",
       "m":false,
