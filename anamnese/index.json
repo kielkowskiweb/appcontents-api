@@ -237,17 +237,11 @@
     "f-4":{
       "q":"Wie leben Sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
+      "t":"radio",
       "m":true,
       "i":"",
       
       "o":[
-        
-          "Berufstätig ",
-        
-          "Arbeitssuchend",
-        
-          "Rentner",
         
           "Allein lebend",
         
