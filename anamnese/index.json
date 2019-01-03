@@ -945,7 +945,7 @@
     
     "f-5":{
       "q":"Psychische Erkrankungen – Belastungen",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
