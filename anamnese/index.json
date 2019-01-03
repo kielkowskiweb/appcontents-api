@@ -1060,7 +1060,7 @@
     
     "f-3":{
       "q":"Darm",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1087,7 +1087,7 @@
     
     "f-4":{
       "q":"Nierenerkrankung",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1106,7 +1106,7 @@
     
     "f-5":{
       "q":"Gelenkerkrankungen",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
