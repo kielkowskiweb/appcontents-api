@@ -643,7 +643,7 @@
     
     "f-6":{
       "q":"Welche Nahrungsunverträglichkeiten  haben Sie?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
