@@ -511,6 +511,27 @@
    "intro":"",
    "questions":{
     
+    "f-":{
+      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?  *",
+      "e":"&lt;p&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+          "manchmal",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
     "f-1":{
       "q":"Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
