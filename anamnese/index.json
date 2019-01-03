@@ -623,7 +623,7 @@
     "f-5":{
       "q":"Essen Sie viel Süßigkeiten / salzige Snacks?",
       "e":"",
-      "t":"checkbox",
+      "t":"radio",
       "m":false,
       "i":"",
       
