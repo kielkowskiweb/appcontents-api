@@ -12,7 +12,7 @@
     
     "f-1":{
       "q":"Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"/uploads/kreis_neu_eamo.png",
