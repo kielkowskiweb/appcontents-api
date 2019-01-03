@@ -177,6 +177,27 @@
    "intro":"",
    "questions":{
     
+    "f-5":{
+      "q":"Sind Sie berufstätig?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Berufstätig",
+        
+          "Rentner",
+        
+          "Arbeitssuchend",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
     "f-1":{
       "q":"Rauchen Sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
