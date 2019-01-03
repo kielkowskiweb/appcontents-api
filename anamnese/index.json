@@ -1016,7 +1016,7 @@
     
     "f-1":{
       "q":"Leber",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
@@ -1039,7 +1039,7 @@
     
     "f-2":{
       "q":"Magen",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
