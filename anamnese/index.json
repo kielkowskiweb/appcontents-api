@@ -501,48 +501,6 @@
       "#":0
     },
     
-    "f-6":{
-      "q":"Frühstücken Sie Zuhause vor der Arbeit?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-          "manchmal",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "f-7":{
-      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-          "manchmal",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
     "#":0
    }
 },
