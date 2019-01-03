@@ -924,7 +924,7 @@
     
     "f-4":{
       "q":"Herz-Kreislauf",
-      "e":"",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
       "i":"",
