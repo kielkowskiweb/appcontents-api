@@ -2,6 +2,30 @@
   "data" : 
 {
  
+ "Abend":{
+  
+"de":"&lt;p&gt;Abend&lt;/p&gt;"
+  
+},
+ 
+ "Mittag":{
+  
+"de":"&lt;p&gt;Mittag&lt;/p&gt;"
+  
+},
+ 
+ "Snack":{
+  
+"de":"&lt;p&gt;Snack&lt;/p&gt;"
+  
+},
+ 
+ "Fruehstueck":{
+  
+"de":"&lt;p&gt;Frühstück&lt;/p&gt;"
+  
+},
+ 
  "Hinweis_Pflichtfelder":{
   
 "de":"&lt;p&gt;Bitte füllen Sie alle Pflichtfelder aus.&lt;/p&gt;"
