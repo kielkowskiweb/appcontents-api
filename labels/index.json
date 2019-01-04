@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "SignUp_Check_Name":{
+  
+"de":"&lt;p&gt;Bitte geben Sie Ihren Namen und Vornamen ein.&lt;/p&gt;"
+  
+},
+ 
  "Abend":{
   
 "de":"&lt;p&gt;Abends&lt;/p&gt;"
