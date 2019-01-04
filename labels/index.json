@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Name":{
+  
+"de":"&lt;p&gt;Name&lt;/p&gt;"
+  
+},
+ 
  "SignUp_Check_Name":{
   
 "de":"&lt;p&gt;Name eingegeben&lt;/p&gt;"
