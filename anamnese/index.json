@@ -535,7 +535,7 @@
     },
     
     "f-8":{
-      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide) ?  *",
+      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide)?  *",
       "e":"&lt;p&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/p&gt;",
       "t":"radio",
       "m":true,
