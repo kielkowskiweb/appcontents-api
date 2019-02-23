@@ -1,19 +1,18 @@
 {
   "data" : 
 {
+ 
+ "Button_Eigenes_Rezept_erfassen":{
   
+"de":"&lt;p&gt;Eigenes Rezept erfassen&lt;/p&gt;"
+  
+},
  
- "date":"2019-02-23 14:42:22 +0000 UTC",
- 
- "draft":"false",
- 
- "iscjklanguage":"false",
- 
- "label":"[map[name:Button_Eigenes_Rezept_erfassen sprachen:[map[content:<p>Eigenes Rezept erfassen</p> sprache:de]]] map[name:Einleitung sprachen:[map[sprache:de content:<p>Sie wissen nicht was Sie kochen wollen? EaMo hilft Ihnen, da ist für jeden Geschmack etwas dabei ...</p>]]]]",
- 
- "lastmod":"2019-02-23 14:42:22 +0000 UTC",
- 
- "publishdate":"2019-02-23 14:42:22 +0000 UTC",
+ "Einleitung":{
+  
+"de":"&lt;p&gt;Sie wissen nicht was Sie kochen wollen? EaMo hilft Ihnen, da ist für jeden Geschmack etwas dabei ...&lt;/p&gt;"
+  
+},
  
  "dummy":true
 }
