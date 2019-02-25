@@ -2,6 +2,18 @@
   "data" : 
 {
  
+ "Label_Zubereitung":{
+  
+"de":"&lt;p&gt;Zubereitung&lt;/p&gt;"
+  
+},
+ 
+ "Label_Zutaten":{
+  
+"de":"&lt;p&gt;Zutaten&lt;/p&gt;"
+  
+},
+ 
  "Button_Eigenes_Rezept_erfassen":{
   
 "de":"&lt;p&gt;Eigenes Rezept erfassen&lt;/p&gt;"
