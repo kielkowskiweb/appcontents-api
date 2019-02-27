@@ -1085,7 +1085,7 @@
       "#":0
     },
     
-    "+011+f-5":{
+    "+011+f-12":{
       "q":"Gelenkerkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1108,7 +1108,7 @@
       "#":0
     },
     
-    "+012+f-7":{
+    "+012+f-13":{
       "q":"Nehmen Sie Medikamente?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
