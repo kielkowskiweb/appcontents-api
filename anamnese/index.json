@@ -863,36 +863,7 @@
    "intro":"",
    "questions":{
     
-    "+000+f-8":{
-      "q":"Wenn ja, welche Medikamente nehmen Sie?",
-      "e":"",
-      "t":"langtext",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+001+f-7":{
-      "q":"Nehmen Sie Medikamente?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "ja",
-        
-          "nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-1":{
+    "+000+f-1":{
       "q":"Stoffwechselstörungen / Erkrankungen I",
       "e":"",
       "t":"radio",
@@ -911,7 +882,7 @@
       "#":0
     },
     
-    "+003+f-2":{
+    "+001+f-2":{
       "q":"Stoffwechselstörungen / Erkrankungen II",
       "e":"",
       "t":"radio",
@@ -930,7 +901,7 @@
       "#":0
     },
     
-    "+004+f-3":{
+    "+002+f-3":{
       "q":"Stoffwechselstörungen / Erkrankungen III",
       "e":"",
       "t":"radio",
@@ -951,7 +922,7 @@
       "#":0
     },
     
-    "+005+f-4":{
+    "+003+f-4":{
       "q":"Herz-Kreislauf",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -972,7 +943,7 @@
       "#":0
     },
     
-    "+006+f-5":{
+    "+004+f-5":{
       "q":"Psychische Belastungen / Psychische Erkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -993,7 +964,7 @@
       "#":0
     },
     
-    "+007+f-6":{
+    "+005+f-6":{
       "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
       "e":"",
       "t":"radio",
@@ -1014,7 +985,7 @@
       "#":0
     },
     
-    "+008+f-1":{
+    "+006+f-1":{
       "q":"Leber",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1037,7 +1008,7 @@
       "#":0
     },
     
-    "+009+f-2":{
+    "+007+f-2":{
       "q":"Magen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1058,7 +1029,7 @@
       "#":0
     },
     
-    "+010+f-3":{
+    "+008+f-3":{
       "q":"Darm",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1085,7 +1056,7 @@
       "#":0
     },
     
-    "+011+f-4":{
+    "+009+f-4":{
       "q":"Nierenerkrankung",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1104,7 +1075,7 @@
       "#":0
     },
     
-    "+012+f-6":{
+    "+010+f-6":{
       "q":"Sonstige Tumor / Krebserkrankungen",
       "e":"",
       "t":"text",
@@ -1114,7 +1085,7 @@
       "#":0
     },
     
-    "+013+f-5":{
+    "+011+f-5":{
       "q":"Gelenkerkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1133,6 +1104,35 @@
         
         "#"
       ],
+      
+      "#":0
+    },
+    
+    "+012+f-7":{
+      "q":"Nehmen Sie Medikamente?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "ja",
+        
+          "nein",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+013+f-8":{
+      "q":"Wenn ja, welche Medikamente nehmen Sie?",
+      "e":"",
+      "t":"langtext",
+      "m":false,
+      "i":"",
       
       "#":0
     },
