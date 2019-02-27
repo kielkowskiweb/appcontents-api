@@ -863,8 +863,8 @@
    "intro":"",
    "questions":{
     
-    "+000+f-2":{
-      "q":"Magen",
+    "+000+f-3":{
+      "q":"Darm",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
@@ -872,11 +872,17 @@
       
       "o":[
         
-          "Geschwür (gutartig)",
+          "Dünndarm",
         
-          "Gastritis (Entzündung)",
+          "Dickdarm",
         
-          "Reflux (Sodbrennen)",
+          "Tumor",
+        
+          "Divertikel",
+        
+          "Morbus Crohn",
+        
+          "Colitis ulcerosa",
         
         "#"
       ],
@@ -1029,7 +1035,28 @@
       "#":0
     },
     
-    "+008+f-7":{
+    "+008+f-2":{
+      "q":"Magen",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Geschwür (gutartig)",
+        
+          "Gastritis (Entzündung)",
+        
+          "Reflux (Sodbrennen)",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+009+f-7":{
       "q":"Leiden Sie an Krankheiten?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
