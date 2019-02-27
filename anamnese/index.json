@@ -863,8 +863,8 @@
    "intro":"",
    "questions":{
     
-    "+000+f-4":{
-      "q":"Nierenerkrankung",
+    "+000+f-5":{
+      "q":"Gelenkerkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
@@ -872,9 +872,13 @@
       
       "o":[
         
-          "Niereninsuffizienz",
+          "Arthrose",
         
-          "Nierensteine",
+          "Rheuma",
+        
+          "Bandshceibenvorfälle",
+        
+          "Sonstige Gelenke",
         
         "#"
       ],
@@ -1075,7 +1079,26 @@
       "#":0
     },
     
-    "+010+f-7":{
+    "+010+f-4":{
+      "q":"Nierenerkrankung",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Niereninsuffizienz",
+        
+          "Nierensteine",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+011+f-7":{
       "q":"Leiden Sie an Krankheiten?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
