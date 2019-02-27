@@ -864,6 +864,29 @@
    "questions":{
     
     "+000+f-1":{
+      "q":"Leber",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Fettleber",
+        
+          "Erhöhte leberwerte",
+        
+          "Zirrhose",
+        
+          "Hepatitis",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-1":{
       "q":"Stoffwechselstörungen / Erkrankungen I",
       "e":"",
       "t":"radio",
@@ -882,7 +905,7 @@
       "#":0
     },
     
-    "+001+f-2":{
+    "+002+f-2":{
       "q":"Stoffwechselstörungen / Erkrankungen II",
       "e":"",
       "t":"radio",
@@ -901,7 +924,7 @@
       "#":0
     },
     
-    "+002+f-3":{
+    "+003+f-3":{
       "q":"Stoffwechselstörungen / Erkrankungen III",
       "e":"",
       "t":"radio",
@@ -922,7 +945,7 @@
       "#":0
     },
     
-    "+003+f-4":{
+    "+004+f-4":{
       "q":"Herz-Kreislauf",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -943,7 +966,7 @@
       "#":0
     },
     
-    "+004+f-5":{
+    "+005+f-5":{
       "q":"Psychische Belastungen / Psychische Erkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -964,7 +987,7 @@
       "#":0
     },
     
-    "+005+f-6":{
+    "+006+f-6":{
       "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
       "e":"",
       "t":"radio",
@@ -985,7 +1008,7 @@
       "#":0
     },
     
-    "+006+f-7":{
+    "+007+f-7":{
       "q":"Leiden Sie an Krankheiten?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
