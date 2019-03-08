@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Button_Mahlzeit_zuruecksetzen":{
+  
+"de":"&lt;p&gt;Löschen&lt;/p&gt;"
+  
+},
+ 
  "Suchergebnis_Handel":{
   
 "de":"&lt;p&gt;Aus dem Handel:&lt;/p&gt;"
