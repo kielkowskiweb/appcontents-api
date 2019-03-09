@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Eigenes_Rezept_Vielen_Dank":{
+  
+"de":"&lt;h2&gt;Vielen Dank &lt;/h2&gt;&lt;p&gt;für Ihren Beitrag, wir pflegen das Rezept jetzt in unsere Datenbank ein. In wenigen Tagen finden Sie das Rezept auch in der Rezeptliste. &lt;/p&gt;&lt;p&gt;&lt;em&gt;Ihr EaMo Team&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
  "Eigenes_Rezept_Radio_4Personen":{
   
 "de":"&lt;p&gt;4 Personen&lt;/p&gt;"
