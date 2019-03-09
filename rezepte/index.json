@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Eigenes_Rezept_Radio_1Personen":{
+  
+"de":"&lt;p&gt;1 Person&lt;/p&gt;"
+  
+},
+ 
  "Button_weiteres_Rezept":{
   
 "de":"&lt;p&gt;Weiteres Rezept erfassen&lt;/p&gt;"
