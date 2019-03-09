@@ -2,6 +2,12 @@
   "data" : 
 {
  
+ "Button_weiteres_Rezept":{
+  
+"de":"&lt;p&gt;Weiteres Rezept erfassen&lt;/p&gt;"
+  
+},
+ 
  "Eigenes_Rezept_Vielen_Dank":{
   
 "de":"&lt;h2&gt;Vielen Dank &lt;/h2&gt;&lt;p&gt;für Ihren Beitrag, wir pflegen das Rezept jetzt in unsere Datenbank ein. In wenigen Tagen finden Sie das Rezept auch in der Rezeptliste. &lt;/p&gt;&lt;p&gt;&lt;em&gt;Ihr EaMo Team&lt;/em&gt;&lt;/p&gt;"
@@ -26,6 +32,12 @@
   
 },
  
+ "Eigenes_Rezept_Schritt2":{
+  
+"de":"&lt;p&gt;&lt;strong&gt;Schritt 2: Personen&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Für wieviele Personen ist Ihr Rezept gedacht&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
  "Eigenes_Rezept_Hinweistext":{
   
 "de":"&lt;p&gt;&lt;em&gt;Mit dem Einsenden des Rezeptes, erkläre ich mich damit einverstanden, das mein Rezept für alle eamo Nutzer veröffentlicht wird.&lt;/em&gt;&lt;/p&gt;"
@@ -41,12 +53,6 @@
  "Eigenes_Rezept_Schritt3":{
   
 "de":"&lt;p&gt;&lt;strong&gt;Schritt 3: Zutaten&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Diese Zutaten werden benötigt&lt;/em&gt;&lt;/p&gt;"
-  
-},
- 
- "Eigenes_Rezept_Schritt2":{
-  
-"de":"&lt;p&gt;&lt;strong&gt;Schritt 2: Personen&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Für wieviele Personen ist Ihr Rezept gedacht&lt;/em&gt;&lt;/p&gt;"
   
 },
  
