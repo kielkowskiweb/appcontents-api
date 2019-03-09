@@ -2,6 +2,18 @@
   "data" : 
 {
  
+ "Eigenes_Rezept_Radio_4Personen":{
+  
+"de":"&lt;p&gt;4 Personen&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Radio_2Personen":{
+  
+"de":"&lt;p&gt;2 Personen&lt;/p&gt;"
+  
+},
+ 
  "Eigenes_Rezept_Absenden":{
   
 "de":"&lt;p&gt;Rezept einsenden&lt;/p&gt;"
