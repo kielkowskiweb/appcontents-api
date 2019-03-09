@@ -2,6 +2,42 @@
   "data" : 
 {
  
+ "Eigenes_Rezept_Absenden":{
+  
+"de":"&lt;p&gt;Rezept einsenden&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Hinweistext":{
+  
+"de":"&lt;p&gt;&lt;em&gt;Mit dem Einsenden des Rezeptes, erkläre ich mich damit einverstanden, das mein Rezept für alle eamo Nutzer veröffentlicht wird.&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Schritt4":{
+  
+"de":"&lt;p&gt;&lt;strong&gt;Schritt 4: Zubereitung&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Beschreibung der Zubereitung&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Schritt3":{
+  
+"de":"&lt;p&gt;&lt;strong&gt;Schritt 3: Zutaten&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Diese Zutaten werden benötigt&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Schritt2":{
+  
+"de":"&lt;p&gt;&lt;strong&gt;Schritt 2: Personen&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Für wieviele Personen ist Ihr Rezept gedacht&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
+ "Eigenes_Rezept_Schritt1":{
+  
+"de":"&lt;p&gt;&lt;strong&gt;Schritt 1: Rezepttitel&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Geben Sie Ihrem Rezept einen Titel&lt;/em&gt;&lt;/p&gt;"
+  
+},
+ 
  "Label_Zubereitung":{
   
 "de":"&lt;p&gt;Zubereitung&lt;/p&gt;"
