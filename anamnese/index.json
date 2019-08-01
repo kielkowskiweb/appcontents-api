@@ -138,35 +138,6 @@
       "#":0
     },
     
-    "+005+f-6":{
-      "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+006+f-7":{
-      "q":"Mein höchstes  Gewicht (in kg) ist/war:",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"zahl",
-      "m":true,
-      "i":"",
-      
-      "#":0
-    },
-    
     "#":0
    }
 },
@@ -177,7 +148,30 @@
    "intro":"",
    "questions":{
     
-    "+000+f-5":{
+    "+000+f-4":{
+      "q":"Wie leben Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Allein lebend",
+        
+          "In Partnerschaft lebend ohne Kinder im Haus",
+        
+          "In Partnerschaft lebend mit Kindern im Haus",
+        
+          "Kinder/Jugendliche/Studenten (im Elternhaus lebend)",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-5":{
       "q":"Sind Sie berufstätig?",
       "e":"",
       "t":"radio",
@@ -196,7 +190,7 @@
       "#":0
     },
     
-    "+001+f-1":{
+    "+002+f-1":{
       "q":"Rauchen Sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -215,7 +209,7 @@
       "#":0
     },
     
-    "+002+f-2":{
+    "+003+f-2":{
       "q":"Wenn ja, wie viel rauchen Sie täglich?",
       "e":"",
       "t":"radio",
@@ -234,7 +228,7 @@
       "#":0
     },
     
-    "+003+f-3":{
+    "+004+f-3":{
       "q":"Waren Sie Raucher?",
       "e":"",
       "t":"radio",
@@ -246,29 +240,6 @@
           "Ja, aufgehört vor mehr als 2 Jahren",
         
           "Ja, aufgehört vor weniger als 2 Jahren",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+004+f-4":{
-      "q":"Wie leben Sie?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Allein lebend",
-        
-          "In Partnerschaft lebend ohne Kinder im Haus",
-        
-          "In Partnerschaft lebend mit Kindern im Haus",
-        
-          "Kinder/Jugendliche/Studenten (im Elternhaus lebend)",
         
         "#"
       ],
