@@ -489,7 +489,34 @@
    "intro":"",
    "questions":{
     
-    "+000+f-1":{
+    "+000+f-":{
+      "q":"Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?",
+      "e":"&lt;p&gt;(Mehrfachauswahl)&lt;/p&gt;",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Bewegung",
+        
+          "Diäten",
+        
+          "Krankheiten",
+        
+          "Essen",
+        
+          "Stress",
+        
+          "Schlafstörungen",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-1":{
       "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -508,7 +535,7 @@
       "#":0
     },
     
-    "+001+f-2":{
+    "+002+f-2":{
       "q":"Wenn ja, wie?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -533,7 +560,7 @@
       "#":0
     },
     
-    "+002+f-3":{
+    "+003+f-3":{
       "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
       "e":"",
       "t":"radio",
@@ -554,7 +581,7 @@
       "#":0
     },
     
-    "+003+f-4":{
+    "+004+f-4":{
       "q":"Wie lang war Ihre längste Diät?",
       "e":"",
       "t":"radio",
@@ -573,7 +600,7 @@
       "#":0
     },
     
-    "+004+f-5":{
+    "+005+f-5":{
       "q":"Wie lange liegt Ihre letzte Diät zurück",
       "e":"",
       "t":"radio",
