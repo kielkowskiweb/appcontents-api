@@ -586,7 +586,7 @@
     },
     
     "+005+f-2":{
-      "q":"Wenn ja, wie?",
+      "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":false,
