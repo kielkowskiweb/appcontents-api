@@ -556,7 +556,17 @@
       "#":0
     },
     
-    "+003+f-1":{
+    "+003+f-9":{
+      "q":"Mein höchstes Gewicht (in kg) ist/war:",
+      "e":"",
+      "t":"zahl",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "+004+f-1":{
       "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -575,7 +585,7 @@
       "#":0
     },
     
-    "+004+f-2":{
+    "+005+f-2":{
       "q":"Wenn ja, wie?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -600,7 +610,7 @@
       "#":0
     },
     
-    "+005+f-3":{
+    "+006+f-3":{
       "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
       "e":"",
       "t":"radio",
@@ -621,7 +631,7 @@
       "#":0
     },
     
-    "+006+f-4":{
+    "+007+f-4":{
       "q":"Wie lang war Ihre längste Diät?",
       "e":"",
       "t":"radio",
@@ -640,7 +650,7 @@
       "#":0
     },
     
-    "+007+f-5":{
+    "+008+f-5":{
       "q":"Wie lange liegt Ihre letzte Diät zurück",
       "e":"",
       "t":"radio",
