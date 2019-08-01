@@ -171,26 +171,7 @@
       "#":0
     },
     
-    "+001+f-5":{
-      "q":"Sind Sie berufstätig?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-1":{
+    "+001+f-1":{
       "q":"Rauchen Sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -209,7 +190,7 @@
       "#":0
     },
     
-    "+003+f-2":{
+    "+002+f-2":{
       "q":"Wenn ja, wie viel rauchen Sie täglich?",
       "e":"",
       "t":"radio",
@@ -222,13 +203,15 @@
         
           "mehr als 10 Zigaretten",
         
+          "E-Zigarette",
+        
         "#"
       ],
       
       "#":0
     },
     
-    "+004+f-3":{
+    "+003+f-3":{
       "q":"Waren Sie Raucher?",
       "e":"",
       "t":"radio",
