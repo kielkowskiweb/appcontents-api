@@ -838,30 +838,7 @@
    "intro":"",
    "questions":{
     
-    "+000+f-19":{
-      "q":"Wie sind Sie auf uns aufmerksam geworden?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Bekannte",
-        
-          "Medien",
-        
-          "Internet",
-        
-          "Sonstiges",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-1":{
+    "+000+f-1":{
       "q":"Stoffwechselstörungen / Erkrankungen I",
       "e":"",
       "t":"radio",
@@ -880,7 +857,7 @@
       "#":0
     },
     
-    "+002+f-2":{
+    "+001+f-2":{
       "q":"Stoffwechselstörungen / Erkrankungen II",
       "e":"",
       "t":"radio",
@@ -899,7 +876,7 @@
       "#":0
     },
     
-    "+003+f-3":{
+    "+002+f-3":{
       "q":"Stoffwechselstörungen / Erkrankungen III",
       "e":"",
       "t":"radio",
@@ -920,7 +897,7 @@
       "#":0
     },
     
-    "+004+f-4":{
+    "+003+f-4":{
       "q":"Herz-Kreislauf",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -941,7 +918,7 @@
       "#":0
     },
     
-    "+005+f-5":{
+    "+004+f-5":{
       "q":"Psychische Belastungen / Psychische Erkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -962,7 +939,7 @@
       "#":0
     },
     
-    "+006+f-6":{
+    "+005+f-6":{
       "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
       "e":"",
       "t":"radio",
@@ -983,7 +960,7 @@
       "#":0
     },
     
-    "+007+f-7":{
+    "+006+f-7":{
       "q":"Leber",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1006,7 +983,7 @@
       "#":0
     },
     
-    "+008+f-8":{
+    "+007+f-8":{
       "q":"Magen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1027,7 +1004,7 @@
       "#":0
     },
     
-    "+009+f-9":{
+    "+008+f-9":{
       "q":"Darm",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1054,7 +1031,7 @@
       "#":0
     },
     
-    "+010+f-10":{
+    "+009+f-10":{
       "q":"Nierenerkrankung",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1073,7 +1050,7 @@
       "#":0
     },
     
-    "+011+f-11":{
+    "+010+f-11":{
       "q":"Sonstige Tumor / Krebserkrankungen",
       "e":"",
       "t":"text",
@@ -1083,7 +1060,7 @@
       "#":0
     },
     
-    "+012+f-12":{
+    "+011+f-12":{
       "q":"Gelenkerkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1106,7 +1083,7 @@
       "#":0
     },
     
-    "+013+f-16":{
+    "+012+f-16":{
       "q":"Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!",
       "e":"",
       "t":"text",
@@ -1116,7 +1093,7 @@
       "#":0
     },
     
-    "+014+f-17":{
+    "+013+f-17":{
       "q":"Hatten Sie eine Operationen? Wenn ja, bitte eingeben!",
       "e":"",
       "t":"langtext",
@@ -1126,7 +1103,7 @@
       "#":0
     },
     
-    "+015+f-13":{
+    "+014+f-13":{
       "q":"Nehmen Sie Medikamente?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -1145,7 +1122,7 @@
       "#":0
     },
     
-    "+016+f-14":{
+    "+015+f-14":{
       "q":"Wenn ja, welche Medikamente nehmen Sie?",
       "e":"",
       "t":"langtext",
@@ -1155,12 +1132,35 @@
       "#":0
     },
     
-    "+017+f-18":{
+    "+016+f-18":{
       "q":"Welche derzeitigen Beschwerden gibt es?",
       "e":"",
       "t":"text",
       "m":false,
       "i":"",
+      
+      "#":0
+    },
+    
+    "+017+f-19":{
+      "q":"Wie sind Sie auf uns aufmerksam geworden?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Bekannte",
+        
+          "Medien",
+        
+          "Internet",
+        
+          "Sonstiges",
+        
+        "#"
+      ],
       
       "#":0
     },
