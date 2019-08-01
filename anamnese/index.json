@@ -896,18 +896,8 @@
    "intro":"",
    "questions":{
     
-    "+000+f-17":{
-      "q":"Hatten Sie eine Operationen? Wenn ja, bitte eingeben!",
-      "e":"",
-      "t":"langtext",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+001+f-16":{
-      "q":"Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!",
+    "+000+f-18":{
+      "q":"Welche derzeitigen Beschwerden gibt es?",
       "e":"",
       "t":"text",
       "m":false,
@@ -916,7 +906,7 @@
       "#":0
     },
     
-    "+002+f-1":{
+    "+001+f-1":{
       "q":"Stoffwechselstörungen / Erkrankungen I",
       "e":"",
       "t":"radio",
@@ -935,7 +925,7 @@
       "#":0
     },
     
-    "+003+f-2":{
+    "+002+f-2":{
       "q":"Stoffwechselstörungen / Erkrankungen II",
       "e":"",
       "t":"radio",
@@ -954,7 +944,7 @@
       "#":0
     },
     
-    "+004+f-3":{
+    "+003+f-3":{
       "q":"Stoffwechselstörungen / Erkrankungen III",
       "e":"",
       "t":"radio",
@@ -975,7 +965,7 @@
       "#":0
     },
     
-    "+005+f-4":{
+    "+004+f-4":{
       "q":"Herz-Kreislauf",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -996,7 +986,7 @@
       "#":0
     },
     
-    "+006+f-5":{
+    "+005+f-5":{
       "q":"Psychische Belastungen / Psychische Erkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1017,7 +1007,7 @@
       "#":0
     },
     
-    "+007+f-6":{
+    "+006+f-6":{
       "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
       "e":"",
       "t":"radio",
@@ -1038,7 +1028,7 @@
       "#":0
     },
     
-    "+008+f-7":{
+    "+007+f-7":{
       "q":"Leber",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1061,7 +1051,7 @@
       "#":0
     },
     
-    "+009+f-8":{
+    "+008+f-8":{
       "q":"Magen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1082,7 +1072,7 @@
       "#":0
     },
     
-    "+010+f-9":{
+    "+009+f-9":{
       "q":"Darm",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1109,7 +1099,7 @@
       "#":0
     },
     
-    "+011+f-10":{
+    "+010+f-10":{
       "q":"Nierenerkrankung",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1128,7 +1118,7 @@
       "#":0
     },
     
-    "+012+f-11":{
+    "+011+f-11":{
       "q":"Sonstige Tumor / Krebserkrankungen",
       "e":"",
       "t":"text",
@@ -1138,7 +1128,7 @@
       "#":0
     },
     
-    "+013+f-12":{
+    "+012+f-12":{
       "q":"Gelenkerkrankungen",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -1161,7 +1151,27 @@
       "#":0
     },
     
-    "+014+f-13":{
+    "+013+f-16":{
+      "q":"Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "+014+f-17":{
+      "q":"Hatten Sie eine Operationen? Wenn ja, bitte eingeben!",
+      "e":"",
+      "t":"langtext",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "+015+f-13":{
       "q":"Nehmen Sie Medikamente?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -1180,31 +1190,12 @@
       "#":0
     },
     
-    "+015+f-14":{
+    "+016+f-14":{
       "q":"Wenn ja, welche Medikamente nehmen Sie?",
       "e":"",
       "t":"langtext",
       "m":false,
       "i":"",
-      
-      "#":0
-    },
-    
-    "+016+f-15":{
-      "q":"Leiden Sie an Krankheiten?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
       
       "#":0
     },
