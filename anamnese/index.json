@@ -896,12 +896,25 @@
    "intro":"",
    "questions":{
     
-    "+000+f-18":{
-      "q":"Welche derzeitigen Beschwerden gibt es?",
+    "+000+f-19":{
+      "q":"Wie sind Sie auf uns aufmerksam geworden?",
       "e":"",
-      "t":"text",
+      "t":"radio",
       "m":false,
       "i":"",
+      
+      "o":[
+        
+          "Bekannte",
+        
+          "Medien",
+        
+          "Internet",
+        
+          "Sonstiges",
+        
+        "#"
+      ],
       
       "#":0
     },
@@ -1194,6 +1207,16 @@
       "q":"Wenn ja, welche Medikamente nehmen Sie?",
       "e":"",
       "t":"langtext",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "+017+f-18":{
+      "q":"Welche derzeitigen Beschwerden gibt es?",
+      "e":"",
+      "t":"text",
       "m":false,
       "i":"",
       
