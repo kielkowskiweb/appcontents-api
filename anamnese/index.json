@@ -632,7 +632,7 @@
     },
     
     "+007+f-4":{
-      "q":"Wie lang war Ihre längste Diät?",
+      "q":"Was war Ihr längster Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
       "m":false,
