@@ -408,6 +408,81 @@
    }
 },
  
+ "a-50":{
+   "img":"/uploads/schlafen_222.jpg",
+   "title":"4. SCHLAFGEWOHNHEITEN",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Wie lange schlafen Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "weniger als 6 h",
+        
+          "6 - 8 h",
+        
+          "mehr als 8 h",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Wie gut schlafen Sie?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "gut",
+        
+          "schlecht",
+        
+          "überwiegend gut",
+        
+          "überwiegend schlecht",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Welche Art der Schlafstörung haben Sie?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Durchschlafstörung",
+        
+          "Einschlafstörung",
+        
+          "Durchschlafstörung und Einschlafstörung",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+ 
  "a-20":{
    "img":"/uploads/diaeten_und_co-1.jpg",
    "title":"2. DIÄTEN &amp; CO",
@@ -692,81 +767,6 @@
       "t":"langtext",
       "m":false,
       "i":"",
-      
-      "#":0
-    },
-    
-    "#":0
-   }
-},
- 
- "a-50":{
-   "img":"/uploads/schlafen_222.jpg",
-   "title":"5. SCHLAFGEWOHNHEITEN",
-   "intro":"",
-   "questions":{
-    
-    "+000+f-1":{
-      "q":"Wie lange schlafen Sie?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "weniger als 6 h",
-        
-          "6 - 8 h",
-        
-          "mehr als 8 h",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-2":{
-      "q":"Wie gut schlafen Sie?",
-      "e":"&lt;p&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "gut",
-        
-          "schlecht",
-        
-          "überwiegend gut",
-        
-          "überwiegend schlecht",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-3":{
-      "q":"Welche Art der Schlafstörung haben Sie?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Durchschlafstörung",
-        
-          "Einschlafstörung",
-        
-          "Durchschlafstörung und Einschlafstörung",
-        
-        "#"
-      ],
       
       "#":0
     },
