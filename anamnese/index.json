@@ -610,28 +610,7 @@
       "#":0
     },
     
-    "+006+f-3":{
-      "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "mehr als 3 ",
-        
-          "weniger als 3",
-        
-          "noch keine Diäten gemacht",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+007+f-4":{
+    "+006+f-4":{
       "q":"Was war Ihr längster Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
@@ -650,8 +629,8 @@
       "#":0
     },
     
-    "+008+f-5":{
-      "q":"Wie lange liegt Ihre letzte Diät zurück",
+    "+007+f-5":{
+      "q":"Wann war Ihr letzter Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
       "m":false,
@@ -666,6 +645,27 @@
           "weniger als 1 Jahr",
         
           "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen ",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+008+f-3":{
+      "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "mehr als 3 ",
+        
+          "weniger als 3",
+        
+          "noch keine Diäten gemacht",
         
         "#"
       ],
