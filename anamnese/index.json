@@ -323,6 +323,91 @@
    }
 },
  
+ "a-60":{
+   "img":"/uploads/sport.jpg",
+   "title":"3. SPORT",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-4":{
+      "q":"Welche Art von Sport treiben Sie?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)",
+        
+          "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)",
+        
+          "Krafttraining + Ausdauer",
+        
+          "EMS / Powerplate",
+        
+          "Kein Sport",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Wie oft treiben Sie Sport?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "1x/Woche",
+        
+          "2x/Woche",
+        
+          "3x/Woche",
+        
+          "4x/Woche",
+        
+          "5x/Woche",
+        
+          "6x/Woche",
+        
+          "täglich",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+          "unregelmäßig",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+ 
  "a-20":{
    "img":"/uploads/diaeten_und_co-1.jpg",
    "title":"2. DIÄTEN &amp; CO",
@@ -679,108 +764,6 @@
           "Einschlafstörung",
         
           "Durchschlafstörung und Einschlafstörung",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "#":0
-   }
-},
- 
- "a-60":{
-   "img":"/uploads/sport.jpg",
-   "title":"6. SPORT",
-   "intro":"",
-   "questions":{
-    
-    "+000+f-1":{
-      "q":"Treiben Sie Sport?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-2":{
-      "q":"Wie oft treiben Sie Sport?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "1x/Woche",
-        
-          "2x/Woche",
-        
-          "3x/Woche",
-        
-          "4x/Woche",
-        
-          "5x/Woche",
-        
-          "6x/Woche",
-        
-          "täglich",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-3":{
-      "q":"Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-          "unregelmäßig",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+003+f-4":{
-      "q":"Welche Art von Sport treiben Sie?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)",
-        
-          "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)",
-        
-          "Krafttraining + Ausdauer",
-        
-          "EMS / Powerplate",
         
         "#"
       ],
