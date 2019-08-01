@@ -489,28 +489,7 @@
    "intro":"",
    "questions":{
     
-    "+000+f-11":{
-      "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "gut",
-        
-          "mäßig",
-        
-          "kaum noch",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-6":{
+    "+000+f-6":{
       "q":"Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?",
       "e":"&lt;p&gt;(Mehrfachauswahl)&lt;/p&gt;",
       "t":"checkbox",
@@ -537,7 +516,7 @@
       "#":0
     },
     
-    "+002+f-7":{
+    "+001+f-7":{
       "q":"Was wollen Sie erreichen?",
       "e":"",
       "t":"radio",
@@ -558,7 +537,7 @@
       "#":0
     },
     
-    "+003+f-8":{
+    "+002+f-8":{
       "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
       "e":"",
       "t":"radio",
@@ -577,7 +556,7 @@
       "#":0
     },
     
-    "+004+f-9":{
+    "+003+f-9":{
       "q":"Mein höchstes Gewicht (in kg) ist/war:",
       "e":"",
       "t":"zahl",
@@ -587,7 +566,7 @@
       "#":0
     },
     
-    "+005+f-1":{
+    "+004+f-1":{
       "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -606,7 +585,7 @@
       "#":0
     },
     
-    "+006+f-10":{
+    "+005+f-10":{
       "q":"Wenn ja, wie oft?",
       "e":"",
       "t":"radio",
@@ -625,7 +604,7 @@
       "#":0
     },
     
-    "+007+f-4":{
+    "+006+f-4":{
       "q":"Was war Ihr längster Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
@@ -644,7 +623,7 @@
       "#":0
     },
     
-    "+008+f-5":{
+    "+007+f-5":{
       "q":"Wann war Ihr letzter Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
@@ -667,7 +646,7 @@
       "#":0
     },
     
-    "+009+f-3":{
+    "+008+f-3":{
       "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
       "e":"",
       "t":"radio",
@@ -688,7 +667,7 @@
       "#":0
     },
     
-    "+010+f-2":{
+    "+009+f-2":{
       "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -706,6 +685,27 @@
           "Fasten (auch Intervallfasten)",
         
           "Weniger Essen und viel Sport",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+010+f-11":{
+      "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "gut",
+        
+          "mäßig",
+        
+          "kaum noch",
         
         "#"
       ],
