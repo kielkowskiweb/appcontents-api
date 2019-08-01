@@ -489,7 +489,28 @@
    "intro":"",
    "questions":{
     
-    "+000+f-6":{
+    "+000+f-11":{
+      "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "gut",
+        
+          "mäßig",
+        
+          "kaum noch",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-6":{
       "q":"Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?",
       "e":"&lt;p&gt;(Mehrfachauswahl)&lt;/p&gt;",
       "t":"checkbox",
@@ -516,7 +537,7 @@
       "#":0
     },
     
-    "+001+f-7":{
+    "+002+f-7":{
       "q":"Was wollen Sie erreichen?",
       "e":"",
       "t":"radio",
@@ -537,7 +558,7 @@
       "#":0
     },
     
-    "+002+f-8":{
+    "+003+f-8":{
       "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
       "e":"",
       "t":"radio",
@@ -556,7 +577,7 @@
       "#":0
     },
     
-    "+003+f-9":{
+    "+004+f-9":{
       "q":"Mein höchstes Gewicht (in kg) ist/war:",
       "e":"",
       "t":"zahl",
@@ -566,7 +587,7 @@
       "#":0
     },
     
-    "+004+f-1":{
+    "+005+f-1":{
       "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -585,7 +606,7 @@
       "#":0
     },
     
-    "+005+f-10":{
+    "+006+f-10":{
       "q":"Wenn ja, wie oft?",
       "e":"",
       "t":"radio",
@@ -597,31 +618,6 @@
           "mehr als 3x",
         
           "weniger als 3x",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+006+f-2":{
-      "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Low Carb",
-        
-          "Eiweißreiche Ernährung",
-        
-          "Kalorien zählen / Punkte zählen",
-        
-          "Fasten (auch Intervallfasten)",
-        
-          "Weniger Essen und viel Sport",
         
         "#"
       ],
@@ -685,6 +681,31 @@
           "weniger als 3",
         
           "noch keine Diäten gemacht",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+010+f-2":{
+      "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Low Carb",
+        
+          "Eiweißreiche Ernährung",
+        
+          "Kalorien zählen / Punkte zählen",
+        
+          "Fasten (auch Intervallfasten)",
+        
+          "Weniger Essen und viel Sport",
         
         "#"
       ],
