@@ -560,7 +560,7 @@
       "q":"Mein höchstes Gewicht (in kg) ist/war:",
       "e":"",
       "t":"zahl",
-      "m":false,
+      "m":true,
       "i":"",
       
       "#":0
