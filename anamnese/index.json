@@ -234,6 +234,112 @@
    }
 },
  
+ "a-30":{
+   "img":"/uploads/arbeit.jpg",
+   "title":"2. ARBEIT UND BERUF",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Auto",
+        
+          "Fahrrad",
+        
+          "Ich arbeite überwiegend Zuhause",
+        
+          "Ich bin nicht berufstätig",
+        
+          "öffentlicher Nahverkehr",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?",
+      "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
+      "t":"zahl",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "in Bewegung z. B. Verkäufer/Handwerker",
+        
+          "überwiegend sitzend z. B. am PC",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+003+f-4":{
+      "q":"Zu welchen Zeiten / Schichten arbeiten Sie?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Tagesschicht",
+        
+          "Früh/Spätschicht",
+        
+          "3-Schichtsystem",
+        
+          "Nur Nachtschicht",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+004+f-5":{
+      "q":"Verlassen Sie vor 7:00 Uhr das Haus?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+ 
  "a-20":{
    "img":"/uploads/diaeten_und_co-1.jpg",
    "title":"2. DIÄTEN &amp; CO",
@@ -340,114 +446,6 @@
           "weniger als 1 Jahr",
         
           "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen ",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "#":0
-   }
-},
- 
- "a-30":{
-   "img":"/uploads/arbeit.jpg",
-   "title":"3. ARBEIT UND BERUF",
-   "intro":"",
-   "questions":{
-    
-    "+000+f-1":{
-      "q":"Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Auto",
-        
-          "Öffentliche Verkehrsmittel",
-        
-          "Fahrrad",
-        
-          "Öffentliche Verkehrsmittel und Fahrrad",
-        
-          "Ich arbeite überwiegend Zuhause",
-        
-          "Ich bin nicht berufstätig",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-2":{
-      "q":"Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?",
-      "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
-      "t":"zahl",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+002+f-3":{
-      "q":"Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?",
-      "e":"&lt;p&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "in Bewegung z. B. Verkäufer/Handwerker",
-        
-          "überwiegend sitzend z. B. am PC",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+003+f-4":{
-      "q":"Zu welchen Zeiten / Schichten arbeiten Sie?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Tagesschicht",
-        
-          "Früh/Spätschicht",
-        
-          "3-Schichtsystem",
-        
-          "Nur Nachtschicht",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+004+f-5":{
-      "q":"Verlassen Sie vor 7:00 Uhr das Haus?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
         
         "#"
       ],
