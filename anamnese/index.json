@@ -4,64 +4,6 @@
   "intro_bild":"/uploads/eamo_a00.png",
   "intro_text":"&lt;p&gt;Da es sich hier um eine ernährungsmedizinische Anwendung handelt, die sich auf Ihren persönlichen Stoffwechsel bezieht, bitten wir Sie folgende Fragen so genau wie möglich zu beantworten.&lt;/p&gt;&lt;p&gt;Alle im folgenden benannten Bereiche können sich negativ auf den Stoffwechsel auswirken und je besser wir diesen kennen, um so größer sind unsere Möglichkeiten Ihnen helfen zu können.&lt;/p&gt;&lt;p&gt;Nehmen Sie sich bitte diese 10 Minuten Zeit!!&lt;/p&gt;&lt;p&gt;Vertrauen Sie darauf, das wir Ihre Daten nur zur Auswertung und nicht an Dritte weitergeben und absolut vertraulich behandeln. Ein gesunder Stoffwechsel hat nicht nur etwas mit Ernährung zu tun sondern mit sehr vielen Faktoren, daher müssen wir auch Ihr gesamtes Umfeld beleuchten.&lt;/p&gt;",
  
- "a-00":{
-   "img":"",
-   "title":"URSACHEN UND ZIEL",
-   "intro":"",
-   "questions":{
-    
-    "+000+f-1":{
-      "q":"Was denken Sie könnte die Ursache für Ihr  Gewichtsproblem sein?",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"/uploads/kreis_neu_eamo.png",
-      
-      "o":[
-        
-          "Bewegung",
-        
-          "Diäten",
-        
-          "Krankheiten",
-        
-          "Essen",
-        
-          "Stress",
-        
-          "Schlafstörungen",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-2":{
-      "q":"Was wollen Sie erreichen?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Gewichtsstabilisierung",
-        
-          "Gewichtsreduktion",
-        
-          "Gewichtszunahme",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "#":0
-   }
-},
- 
  "a-10":{
    "img":"/uploads/eamo_a1.png",
    "title":"1. ALLGEMEINES - TEIL I",
