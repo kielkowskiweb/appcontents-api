@@ -266,7 +266,7 @@
     },
     
     "+001+f-2":{
-      "q":"Wie viele Km legen Sie ingesamt pro Tag für den Arbeitsweg / Schulweg mit dem Fahrrad zurück?",
+      "q":"Wie viele km liegen zwischen Ihrem Wohnort und Ihrem Arbeitsplatz pro Strecke?",
       "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
       "t":"zahl",
       "m":false,
