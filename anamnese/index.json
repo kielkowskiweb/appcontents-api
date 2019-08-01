@@ -646,28 +646,7 @@
       "#":0
     },
     
-    "+008+f-3":{
-      "q":"Wie viele Diäten haben Sie in Ihrem Leben gemacht?",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "mehr als 3 ",
-        
-          "weniger als 3",
-        
-          "noch keine Diäten gemacht",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+009+f-2":{
+    "+008+f-2":{
       "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -692,7 +671,7 @@
       "#":0
     },
     
-    "+010+f-11":{
+    "+009+f-11":{
       "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
       "e":"",
       "t":"radio",
