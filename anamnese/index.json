@@ -1094,7 +1094,7 @@
     },
     
     "+013+f-17":{
-      "q":"Hatten Sie eine Operationen? Wenn ja, bitte eingeben!",
+      "q":"Hatten Sie eine oder mehrere Operationen? Wenn ja, bitte eingeben!",
       "e":"",
       "t":"langtext",
       "m":false,
