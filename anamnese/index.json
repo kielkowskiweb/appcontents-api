@@ -941,8 +941,8 @@
     
     "+005+f-6":{
       "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
-      "e":"",
-      "t":"radio",
+      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
       "m":false,
       "i":"",
       
