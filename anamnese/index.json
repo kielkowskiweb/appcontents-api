@@ -273,8 +273,8 @@
     
     "+000+f-4":{
       "q":"Welche Art von Sport treiben Sie?",
-      "e":"",
-      "t":"radio",
+      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
       "m":false,
       "i":"",
       
