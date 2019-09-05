@@ -817,7 +817,7 @@
       "q":"Welche Nahrungsunverträglichkeiten  haben Sie?",
       "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
