@@ -213,7 +213,7 @@
       "q":"Wie viele km liegen zwischen Ihrem Wohnort und Ihrem Arbeitsplatz pro Strecke?",
       "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
       "t":"zahl",
-      "m":false,
+      "m":true,
       "i":"",
       
       "#":0
@@ -223,7 +223,7 @@
       "q":"Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?",
       "e":"&lt;p&gt;&lt;/p&gt;",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
