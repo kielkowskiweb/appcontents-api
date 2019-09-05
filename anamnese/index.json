@@ -579,7 +579,7 @@
       "q":"Wann war Ihr letzter Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
