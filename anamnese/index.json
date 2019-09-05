@@ -537,7 +537,7 @@
       "q":"Wenn ja, wie oft?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -545,6 +545,8 @@
           "mehr als 3x",
         
           "weniger als 3x",
+        
+          "noch nicht",
         
         "#"
       ],
@@ -556,7 +558,7 @@
       "q":"Was war Ihr längster Versuch Gewicht zu reduzieren?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -564,6 +566,8 @@
           "mehr als 2 Monate",
         
           "weniger als 2 Monate",
+        
+          "Ich habe noch nicht versucht mein Gewicht zu reduzieren",
         
         "#"
       ],
