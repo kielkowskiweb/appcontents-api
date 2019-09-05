@@ -157,7 +157,7 @@
       "q":"Waren Sie Raucher?",
       "e":"",
       "t":"radio",
-      "m":true,
+      "m":false,
       "i":"",
       
       "o":[
@@ -165,8 +165,6 @@
           "Ja, aufgehört vor mehr als 2 Jahren",
         
           "Ja, aufgehört vor weniger als 2 Jahren",
-        
-          "Nein",
         
         "#"
       ],
