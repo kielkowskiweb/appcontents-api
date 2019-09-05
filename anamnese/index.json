@@ -773,7 +773,7 @@
       "q":"Ist das Abendessen Ihre Hauptmahlzeit?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -794,7 +794,7 @@
       "q":"Essen Sie viel Süßigkeiten / salzige Snacks?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -804,6 +804,8 @@
           "häufig",
         
           "selten",
+        
+          "nie",
         
         "#"
       ],
