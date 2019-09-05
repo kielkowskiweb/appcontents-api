@@ -633,7 +633,7 @@
       "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -643,6 +643,8 @@
           "mäßig",
         
           "kaum noch",
+        
+          "Ich mache keine eigenen Abnehmbemühungen",
         
         "#"
       ],
