@@ -333,7 +333,7 @@
       "q":"Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -343,6 +343,8 @@
           "Nein",
         
           "unregelmäßig",
+        
+          "Ich treibe keinen Sport",
         
         "#"
       ],
