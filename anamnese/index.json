@@ -408,7 +408,7 @@
       "q":"Welche Art der Schlafstörung haben Sie?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -418,6 +418,8 @@
           "Einschlafstörung",
         
           "Durchschlafstörung und Einschlafstörung",
+        
+          "keine Schlafstörung",
         
         "#"
       ],
