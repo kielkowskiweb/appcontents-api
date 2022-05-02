@@ -265,6 +265,12 @@
 "de":"&lt;p&gt;Registrieren&lt;/p&gt;"
   
 },
+
+"Account_Vorhanden_Login":{
+  
+"de":"Hast du schon einen Account? &lt;a href=&#34;/signin&#34; title=&#34;&#34;&gt;&lt;strong&gt;Einloggen&lt;/strong&gt;&lt;/a&gt;"
+  
+},
  
  "Einloggen":{
   
