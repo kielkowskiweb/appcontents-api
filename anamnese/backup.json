@@ -11,25 +11,12 @@
    "questions":{
     
     "+000+f-1":{
-      "q":"Warum suchen sie medizinische Ernährungsberatung?",
+      "q":"Alter:",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
+      "t":"zahl",
       "m":true,
       "i":"",
-      "o":[
-        
-          "Auto",
-        
-          "Fahrrad",
-        
-          "Ich arbeite überwiegend Zuhause",
-        
-          "Ich bin nicht berufstätig",
-        
-          "öffentlicher Nahverkehr",
-        
-        "#"
-      ],
+      
       "#":0
     },
     
