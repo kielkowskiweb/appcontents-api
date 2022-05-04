@@ -6,7 +6,7 @@
  
  "a-10":{
    "img":"/uploads/eamo_a1.png",
-   "title":"Basis",
+   "title":"Allgemein",
    "intro":"",
    "questions":{
     
@@ -18,23 +18,39 @@
       "i":"",
       "o":[
         
-          "Auto",
+          "Weil ich abnehmen möchte",
         
-          "Fahrrad",
+          "Weil ich mein Gewicht halten möchte",
         
-          "Ich arbeite überwiegend Zuhause",
+          "Weil ich eine Krankheit habe",
         
-          "Ich bin nicht berufstätig",
+          "Weil ich einen Magenbypass habe",
         
-          "öffentlicher Nahverkehr",
+          "Weil ich zunehmen möchte",
+		  
+		  "weil mein Kind Übergewicht hat",
+		  
+		  "weil ich mich gesund ernähren möchte und Alter und Krankheiten vorbeugen möchte",
+		  
+		  "weil ich eine Nahrungsmittelallergie habe",
         
         "#"
       ],
       "#":0
     },
+	
+	"+001+f-2":{
+      "q":"Wie alt sind sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"zahl",
+      "m":true,
+      "i":"",
+      
+      "#":0
+    },
     
-    "+001+f-2":{
-      "q":"Geschlecht",
+    "+002+f-3":{
+      "q":"Welches Geschlecht (biologisch) haben sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
@@ -52,29 +68,8 @@
       "#":0
     },
     
-    "+002+f-3":{
-      "q":"Kinder",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ACHTUNG: Nutzen Sie die APP im Falle einer Schwangerschaft nur unter ärztlicher Begleitung.&lt;/strong&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-          "Schwanger*",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
     "+003+f-4":{
-      "q":"Körpergröße in cm",
+      "q":"Wie groß sind sie? (in cm)",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
@@ -84,7 +79,7 @@
     },
     
     "+004+f-5":{
-      "q":"Körpergewicht in kg",
+      "q":"Wie viel wiegen sie ? (in kg)",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
