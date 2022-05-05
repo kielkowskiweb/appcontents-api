@@ -939,7 +939,7 @@
         
           "weniger als 10 km",
         
-          "emhr als 10 km",
+          "mehr als 10 km",
         
         "#"
       ],
@@ -973,7 +973,186 @@
     "#":0
    }
 },
- 
+
+"a-13":{
+   "img":"/uploads/sport.jpg",
+   "title":"SPORT",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Treiben Sie Sport?",
+      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+001+f-2":{
+      "q":"Sind sie bewegungseingeschränkt?",
+      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja, dauerhaft",
+		  
+		  "Ja, vorrübergehend",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"An wie vielen Tagen treiben Sie Sport?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "1x/Woche",
+        
+          "2x/Woche",
+        
+          "3x/Woche",
+        
+          "4x/Woche",
+        
+          "über 5x/Woche",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+003+f-4":{
+      "q":"Treiben Sie auf nüchternen Magen Sport?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+          "Manchmal",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+004+f-5":{
+      "q":"Pausieren Sie zwischen Trainings?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+          "Manchmal",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+005+f-6":{
+      "q":"Welche Sportarten treiben Sie?",
+      "e":"",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Radfahren",
+        
+          "Joggen",
+        
+          "Walken",
+		  
+		  "EMS / Power Plate",
+		  
+		  "Schwimmen",
+		  
+		  "Krafttraining",
+		  
+		  "Kraft + Ausdauer",
+		  
+		  "Yoga / Pilates",
+		  
+		  "Sonstiges",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Treiben Sie Leistungssport?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+007+f-8":{
+      "q":"Wenn ja, welchen?",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"",
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+
  "a-80":{
    "img":"/uploads/geschafft.jpg",
    "title":"GESCHAFFT",
