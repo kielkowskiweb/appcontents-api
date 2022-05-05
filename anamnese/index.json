@@ -1153,6 +1153,168 @@
    }
 },
 
+"a-14":{
+   "img":"/uploads/schlafen_222.jpg",
+   "title":"Schlaf",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Wie lange schlafen Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "weniger als 6 h",
+        
+          "6 - 8 h",
+        
+          "mehr als 8 h",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Wie gut schlafen Sie?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "gut",
+        
+          "schlecht",
+        
+          "meist gut",
+        
+          "meist schlecht",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Leiden Sie an Schlafstörung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Durchschlafstörung",
+        
+          "Einschlafstörung",
+        
+          "keine Schlafstörung",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+003+f-4":{
+      "q":"Arbeiten Sie nachts noch an Computer oder Handy?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+
+ "a-15":{
+   "img":"/uploads/diaeten_und_co-1.jpg",
+   "title":"Stress",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Wie stressig empfinden sie ihr Leben?",
+      "e":"&lt;p&gt;(Mehrfachauswahl)&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "normal",
+        
+          "grenzwertig",
+        
+          "sehr",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Was ist die Ursache für Ihren Stress?",
+      "e":"",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Arbeitslosigkeit",
+        
+          "finanzielle Probleme",
+        
+          "Einsamkeit",
+		  
+		  "Partnersch. Familie",
+		  
+		  "Krankheit / Gewicht",
+		  
+		  "beruflicher Alltag",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Was haben sie für Hobbies?",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"",
+
+      "#":0
+    },
+    
+    "#":0
+   }
+},
+
  "a-80":{
    "img":"/uploads/geschafft.jpg",
    "title":"GESCHAFFT",
