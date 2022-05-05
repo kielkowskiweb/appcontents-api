@@ -277,6 +277,12 @@
 "de":"&lt;p&gt;Einloggen&lt;/p&gt;"
   
 },
+
+ "Einloggen":{
+  
+"de":"&lt;p&gt;Online-Sprechstunde&lt;/p&gt;"
+  
+},
  
  "dummy":true
 }
