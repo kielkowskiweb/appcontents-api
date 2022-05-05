@@ -481,7 +481,11 @@
         "#"
       ],
 	  
-	  "+005+f-6":{
+	  "#":0
+	  
+    },
+	
+	"+005+f-6":{
       "q":"Leiden Sie an einer Lebererkrankung?",
       "e":"",
       "t":"radio",
@@ -829,7 +833,7 @@
       "#":0
     },
 	
-	"+019+f-20":{
+	"+020+f-21":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
