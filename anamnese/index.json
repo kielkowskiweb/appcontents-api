@@ -357,26 +357,38 @@
  
  "a-11":{
    "img":"/uploads/eamo_a11.png",
-   "title":"1. ALLGEMEINES – TEIL II",
+   "title":"Gesundheit",
    "intro":"",
    "questions":{
     
-    "+000+f-4":{
-      "q":"Wie leben Sie?",
+    "+000+f-1":{
+      "q":"Gibt es folgende Laborveränderungen bei Ihnen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
+      "t":"checkbox",
       "m":true,
       "i":"",
       
       "o":[
         
-          "Allein lebend",
+          "Keine",
         
-          "In Partnerschaft lebend ohne Kinder im Haus",
+          "Hohe Blutfettwerte",
         
-          "In Partnerschaft lebend mit Kindern im Haus",
+          "Hohe Leber Fettwerte",
         
-          "Kinder/Jugendliche/Studenten (im Elternhaus lebend)",
+          "erhöhtes Cholesterin",
+		  
+		  "schlechte Nierenwerte",
+		  
+		  "Vit D Mangel",
+		  
+		  "Vit B6 Mangel",
+		  
+		  "Vit B12 Mangel",
+		  
+		  "anormale Schilddrüsen Werte",
+		  
+		  "hohe Blutzuckerwerte",
         
         "#"
       ],
@@ -384,9 +396,219 @@
       "#":0
     },
     
-    "+001+f-1":{
-      "q":"Rauchen Sie?",
+    "+001+f-2":{
+      "q":"Leiden Sie an Diabetes?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Typ 1 insulin",
+		  
+		  "Typ 2 insulin",
+		  
+		  "Typ 2 mit Med.",
+		  
+		  "Typ 2 ohne Insulin, ohne Med.",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Leiden Sie an Bluthochdruck?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+003+f-4":{
+      "q":"Leiden Sie an einer Krebserkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+004+f-5":{
+      "q":"Leiden Sie an einer Nierenerkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Nierensteine",
+		  
+		  "Niereninsuffizienz, Dialysepflichtig",
+		  
+		  "Niereninsuffizienz, NICHT Dialysepflichtig",
+		  
+		  "Transplantation",
+        
+        "#"
+      ],
+	  
+	  "+005+f-6":{
+      "q":"Leiden Sie an einer Lebererkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Fettleber",
+		  
+		  "Leberzyrrhose",
+		  
+		  "Hepatitis",
+		  
+		  "Transplantation",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Leiden Sie an einer Schilddrüsenerkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Überfunktion",
+		  
+		  "Unterfunktion",
+		  
+		  "Hashimoto",
+		  
+		  "Morbus Basedow",
+		  
+		  "Sonstige",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+007+f-8":{
+      "q":"Leiden Sie an einer Herzkrankheit?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Herz-Rythmus-störung",
+		  
+		  "Herz-Insuffizienz",
+		  
+		  "Herzschrittmacher",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+008+f-9":{
+      "q":"Leiden Sie an einer Darmerkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Reizdarm",
+		  
+		  "Morbus Crohn",
+		  
+		  "Morbus Ulcera",
+		  
+		  "Divertikullitis",
+		  
+		  "Sonstige",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+009+f-10":{
+      "q":"Leiden Sie an Verstopfung / Verdauungsproblemen?",
+      "e":"",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Verstopfung",
+		  
+		  "Morbus Crohn",
+		  
+		  "Blähungen",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+010+f-11":{
+      "q":"Können sie täglich abführen?",
+      "e":"",
       "t":"radio",
       "m":true,
       "i":"",
@@ -396,50 +618,224 @@
           "Ja",
         
           "Nein",
-        
+		  
         "#"
       ],
       
       "#":0
     },
-    
-    "+002+f-2":{
-      "q":"Wenn ja, wie viel rauchen Sie täglich?",
+	
+	"+011+f-12":{
+      "q":"Leiden Sie an Gelenkproblemen?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
         
-          "weniger als 10 Zigaretten",
+          "Nein",
         
-          "mehr als 10 Zigaretten",
-        
-          "E-Zigarette",
-        
+          "Rheuma",
+		  
+		  "Hüft-Arthrose",
+		  
+		  "Knie-Arthrose",
+		  
+		  "Arthrose, Sonstige",
+		  
         "#"
       ],
       
       "#":0
     },
-    
-    "+003+f-3":{
-      "q":"Waren Sie Raucher?",
+	
+	"+012+f-13":{
+      "q":"Leiden Sie an einer Wirbelsäulenerkrankung?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
         
-          "Ja, aufgehört vor mehr als 2 Jahren",
+          "Nein",
         
-          "Ja, aufgehört vor weniger als 2 Jahren",
-        
+          "Bandscheibenvorfall",
+		  
+		  "Sonstige",
+		  
         "#"
       ],
       
+      "#":0
+    },
+	
+	"+013+f-14":{
+      "q":"Leiden Sie an Muskelschmerzen?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+014+f-15":{
+      "q":"Haben Sie Osteoporose?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+		  
+		  "Keine Knochendichtemessung",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+015+f-16":{
+      "q":"Leiden Sie an einer psychischen Erkrankung?",
+      "e":"",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Angsstörung",
+		  
+		  "Depression",
+		  
+		  "Demenz",
+		  
+		  "Parkinson",
+		  
+		  "Alzheimer",
+		  
+		  "Burn-Out-Syndrom",
+		  
+		  "Sonstige",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+016+f-17":{
+      "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
+      "e":"",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Krebserkrankungen",
+        
+          "Angsstörung",
+		  
+		  "Depression",
+		  
+		  "Demenz",
+		  
+		  "Parkinson",
+		  
+		  "Alzheimer",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+017+f-18":{
+      "q":"Sind Sie organtransplantiert?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Niere",
+		  
+		  "Leber",
+		  
+		  "Herz",
+		  
+		  "Lunge",
+		  
+		  "Bauchspeicheldrüse",
+		  
+		  "Dünndarm",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+018+f-19":{
+      "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Bypass",
+		  
+		  "Schlauchmagen",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+019+f-20":{
+      "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"",
+	  
+      "#":0
+    },
+	
+	"+019+f-20":{
+      "q":"Nehmen Sie Medikamente?",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"Welche Medikamente nehmen Sie?",
+	  
       "#":0
     },
     
