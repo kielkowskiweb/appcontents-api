@@ -848,8 +848,131 @@
     "#":0
    }
 },
- 
- 
+
+"a-12":{
+   "img":"/uploads/arbeit.jpg",
+   "title":"Lebensführung",
+   "intro":"",
+   "questions":{
+    
+    "+000+f-1":{
+      "q":"Wie leben Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Allein",
+        
+          "Mit Partner",
+        
+          "Mit Partner & Kind",
+        
+          "Allein + Kind",
+        
+          "Im Elternhaus",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Rauchen Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+		  "Nein"
+		
+          "Mehr als 10 Zig. / Tag",
+        
+          "Weniger als 10 Zig. / Tag",
+        
+          "E-Zigarette",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+002+f-3":{
+      "q":"Wie arbeiten Sie?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "ich bin nicht berufstätig",
+        
+          "sitzend",
+        
+          "vorwiegend sitzend",
+		  
+		  "in Bewegung",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+003+f-4":{
+      "q":"Wie lang ist Ihr Arbeitsweg?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "weniger als 5 km",
+        
+          "weniger als 10 km",
+        
+          "emhr als 10 km",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+004+f-5":{
+      "q":"Zu welchen Zeiten arbeiten Sie?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Tagesschicht",
+        
+          "Früh/Spätschicht",
+        
+          "Früh/Spät/Nachtschicht",
+        
+          "Nur nachts",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "#":0
+   }
+},
  
  "a-80":{
    "img":"/uploads/geschafft.jpg",
