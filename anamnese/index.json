@@ -79,12 +79,275 @@
     },
     
     "+004+f-5":{
-      "q":"Wie viel wiegen sie ? (in kg)",
+      "q":"Wie viel wiegen sie ? (in Kg)",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"zahl",
       "m":true,
       "i":"",
       
+      "#":0
+    },
+	
+	"+005+f-6":{
+      "q":"Was war ihr höchstes Gewicht? (in Kg)",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"zahl",
+      "m":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Sind sie schwanger?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+007+f-8":{
+      "q":"Was könnte die Ursache für Ihr Gewichtsproblem sein?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "JoJo Effekt",
+        
+          "Zu viele Diäten",
+		  
+		  "Familie",
+        
+          "Stress",
+        
+          "Schlafstörungen",
+        
+          "habe aufgehört zu rauchen",
+		  
+		  "Schwangerschaft",
+		  
+		  "Krankheiten",
+		  
+		  "Diabetes",
+		  
+		  "Magenbypass",
+		  
+		  "Sonstiges",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+008+f-9":{
+      "q":"Seit wann haben sSie Gewichtsprobleme?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Seit meiner Kindheit",
+        
+          "Seit meiner Jugend",
+		  
+		  "Seit meinen Wechseljahren",
+		  
+		  "durch / nach einer Krankheit",
+		  
+		  "Seit ich älter bin (Rente)",
+		  
+		  "durch / nach einer Schwangerschaft",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+009+f-10":{
+      "q":"Hat Ihr Gewicht Einfluss auf Ihr psychisches Wohlbefinden?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0010+f-11":{
+      "q":"Harris Benedict Formel",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "GU < 1500",
+        
+          "GU > 1500",
+		  
+		  "GU > 2000",
+		  
+		  "GU > 2500",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0011+f-12":{
+      "q":"BMI",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "BMI < 25",
+        
+          "BMI > 25",
+		  
+		  "BMI > 30",
+		  
+		  "BMI > 35",
+		  
+		  "BMI > 40",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0012+f-13":{
+      "q":"Haben Sie schon einmal versucht Ihr Gewicht zu reduzieren?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "Noch nie",
+        
+          "Öfter als 3 Mal",
+		  
+		  "Seltener als 3 Mal",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0013+f-14":{
+      "q":"Mein längster Abnehmversuch dauerte (inkl. Intervall-Fasten)",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "weniger als 2 Monate",
+        
+          "länger als 2 Monate",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0014+f-15":{
+      "q":"Mein letzter Abnehmversuch (inkl. Intervall-Fasten) war...",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "vor über einem Jahr",
+        
+          "in den letzten 12 Monaten",
+		  
+		  "Ich mache aktuell eine Diät",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+015+f-16":{
+      "q":"Welche Diäten haben sie bereits ausprobiert?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"checkbox",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "Intervall-Fasten",
+        
+          "Low-Carb",
+		  
+		  "Weight Watchers",
+        
+          "Eiweiß-Shake-Diät",
+        
+          "Fastenkuren",
+        
+          "wenig essen, viel Sport",
+		  
+		  "intuitives Essen",
+		  
+		  "Medikamente",
+		  
+		  "Kalorien zählen",
+		  
+		  "Binge Eating (Erbrechen)",
+		  
+		  "low fat Diät",
+		  
+		  "nicht aufgeführt",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+0014+f-15":{
+      "q":"Wie gut können Sie noch abnehmen?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      "o":[
+        
+          "Gar nicht, egal was ich tue",
+        
+          "schlecht",
+		  
+		  "gut",
+        
+        "#"
+      ],
       "#":0
     },
     
