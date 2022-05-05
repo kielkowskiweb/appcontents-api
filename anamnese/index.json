@@ -851,28 +851,28 @@
  
  "a-12":{
    "img":"/uploads/arbeit.jpg",
-   "title":"2. ARBEIT UND SCHULE",
+   "title":"Lebensführung",
    "intro":"",
    "questions":{
     
     "+000+f-1":{
-      "q":"Wie legen Sie Ihren Arbeitsweg / Schulweg zurück?",
+      "q":"Wie leben Sie?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
+      "t":"radio",
       "m":true,
       "i":"",
       
       "o":[
         
-          "Auto",
+          "Allein",
         
-          "Fahrrad",
+          "Mit Partner",
         
-          "Ich arbeite überwiegend Zuhause",
+          "Mit Partner & Kind",
         
-          "Ich bin nicht berufstätig",
+          "Allein + Kind",
         
-          "öffentlicher Nahverkehr",
+          "Im Elternhaus",
         
         "#"
       ],
@@ -881,29 +881,21 @@
     },
     
     "+001+f-2":{
-      "q":"Wie viele km liegen zwischen Ihrem Wohnort und Ihrem Arbeitsplatz pro Strecke?",
-      "e":"&lt;p&gt;(Hier verwenden wir als Rechengrundlage 200 Arbeitstage)&lt;/p&gt;",
-      "t":"zahl",
-      "m":true,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+002+f-3":{
-      "q":"Üben Sie Ihren Beruf überwiegend sitzend oder in Bewegung aus?",
-      "e":"&lt;p&gt;&lt;/p&gt;",
+      "q":"Rauchen Sie?",
+      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
       
       "o":[
         
-          "in Bewegung z. B. Verkäufer/Handwerker",
+		  "Nein"
+		
+          "Mehr als 10 Zig. / Tag",
         
-          "überwiegend sitzend z. B. am PC",
+          "Weniger als 10 Zig. / Tag",
         
-          "Kombination aus sitzender und bewegter Tätigkeit",
+          "E-Zigarette",
         
         "#"
       ],
@@ -911,8 +903,52 @@
       "#":0
     },
     
-    "+003+f-4":{
-      "q":"Zu welchen Zeiten / Schichten arbeiten Sie?",
+    "+002+f-3":{
+      "q":"Wie arbeiten Sie?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "ich bin nicht berufstätig",
+        
+          "sitzend",
+        
+          "vorwiegend sitzend",
+		  
+		  "in Bewegung",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+003+f-4":{
+      "q":"Wie lang ist Ihr Arbeitsweg?",
+      "e":"&lt;p&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "weniger als 5 km",
+        
+          "weniger als 10 km",
+        
+          "emhr als 10 km",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+004+f-5":{
+      "q":"Zu welchen Zeiten arbeiten Sie?",
       "e":"",
       "t":"radio",
       "m":true,
@@ -924,9 +960,9 @@
         
           "Früh/Spätschicht",
         
-          "3-Schichtsystem",
+          "Früh/Spät/Nachtschicht",
         
-          "Nur Nachtschicht",
+          "Nur nachts",
         
         "#"
       ],
@@ -940,28 +976,43 @@
  
  "a-13":{
    "img":"/uploads/sport.jpg",
-   "title":"3. SPORT",
+   "title":"SPORT",
    "intro":"",
    "questions":{
     
-    "+000+f-4":{
-      "q":"Welche Art von Sport treiben Sie?",
+    "+000+f-1":{
+      "q":"Treiben Sie Sport?",
       "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
+      "t":"radio",
       "m":true,
       "i":"",
       
       "o":[
         
-          "Ausdauer (z. B. Radfahren, Joggen, Tanzen, Walken, Schwimmen)",
+          "Nein",
         
-          "Krafttraining (z. B. Gerätesport, Gewichtstraining, Eigengewicht)",
+          "Ja",
         
-          "Krafttraining + Ausdauer",
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+001+f-2":{
+      "q":"Sind sie bewegungseingeschränkt?",
+      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
         
-          "EMS / Powerplate",
+          "Nein",
         
-          "Kein Sport",
+          "Ja, dauerhaft",
+		  
+		  "Ja, vorrübergehend",
         
         "#"
       ],
@@ -969,8 +1020,8 @@
       "#":0
     },
     
-    "+001+f-2":{
-      "q":"Wie oft treiben Sie Sport?",
+    "+002+f-3":{
+      "q":"An wie vielen Tagen treiben Sie Sport?",
       "e":"",
       "t":"radio",
       "m":false,
@@ -986,22 +1037,16 @@
         
           "4x/Woche",
         
-          "5x/Woche",
-        
-          "6x/Woche",
-        
-          "täglich",
-        
-          "Ich treibe keinen Sport",
+          "über 5x/Woche",
         
         "#"
       ],
       
       "#":0
     },
-    
-    "+002+f-3":{
-      "q":"Pausieren Sie zwischen den Tagen an denen Sie Sport treiben, mindestens einen Tag?",
+	
+	"+003+f-4":{
+      "q":"Treiben Sie auf nüchternen Magen Sport?",
       "e":"",
       "t":"radio",
       "m":true,
@@ -1013,12 +1058,93 @@
         
           "Nein",
         
-          "unregelmäßig",
-        
-          "Ich treibe keinen Sport",
-        
+          "Manchmal",
+
         "#"
       ],
+      
+      "#":0
+    },
+    
+    "+004+f-5":{
+      "q":"Pausieren Sie zwischen Trainings?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+        
+          "Manchmal",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+005+f-6":{
+      "q":"Welche Sportarten treiben Sie?",
+      "e":"",
+      "t":"checkbox",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Radfahren",
+        
+          "Joggen",
+        
+          "Walken",
+		  
+		  "EMS / Power Plate",
+		  
+		  "Schwimmen",
+		  
+		  "Krafttraining",
+		  
+		  "Kraft + Ausdauer",
+		  
+		  "Yoga / Pilates",
+		  
+		  "Sonstiges",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Treiben Sie Leistungssport?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Wenn ja, welchen?",
+      "e":"",
+      "t":"text",
+      "m":false,
+      "i":"",
       
       "#":0
     },
@@ -1029,7 +1155,7 @@
  
  "a-14":{
    "img":"/uploads/schlafen_222.jpg",
-   "title":"4. SCHLAFGEWOHNHEITEN",
+   "title":"Schlaf",
    "intro":"",
    "questions":{
     
@@ -1067,9 +1193,9 @@
         
           "schlecht",
         
-          "überwiegend gut",
+          "meist gut",
         
-          "überwiegend schlecht",
+          "meist schlecht",
         
         "#"
       ],
@@ -1078,7 +1204,7 @@
     },
     
     "+002+f-3":{
-      "q":"Welche Art der Schlafstörung haben Sie?",
+      "q":"Leiden Sie an Schlafstörung?",
       "e":"",
       "t":"radio",
       "m":true,
@@ -1090,9 +1216,26 @@
         
           "Einschlafstörung",
         
-          "Durchschlafstörung und Einschlafstörung",
-        
           "keine Schlafstörung",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+002+f-3":{
+      "q":"Arbeiten Sie nachts noch an Computer oder Handy?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
         
         "#"
       ],
@@ -1106,30 +1249,51 @@
  
  "a-15":{
    "img":"/uploads/diaeten_und_co-1.jpg",
-   "title":"5. GEWICHTSVERLAUF",
+   "title":"Stress",
    "intro":"",
    "questions":{
     
-    "+000+f-6":{
-      "q":"Was denken Sie, könnte die Ursache für Ihr Gewichtsproblem sein?",
+    "+000+f-1":{
+      "q":"Wie stressig empfinden sie ihr Leben?",
       "e":"&lt;p&gt;(Mehrfachauswahl)&lt;/p&gt;",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "normal",
+        
+          "grenzwertig",
+        
+          "sehr",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+001+f-2":{
+      "q":"Was ist die Ursache für Ihren Stress?",
+      "e":"",
       "t":"checkbox",
-      "m":true,
+      "m":false,
       "i":"",
       
       "o":[
         
-          "Bewegung",
+          "Arbeitslosigkeit",
         
-          "Diäten",
+          "finanzielle Probleme",
         
-          "Krankheiten",
-        
-          "Essen",
-        
-          "Stress",
-        
-          "Schlafstörungen",
+          "Einsamkeit",
+		  
+		  "Partnersch. Familie",
+		  
+		  "Krankheit / Gewicht",
+		  
+		  "beruflicher Alltag",
         
         "#"
       ],
@@ -1137,191 +1301,13 @@
       "#":0
     },
     
-    "+001+f-7":{
-      "q":"Was wollen Sie erreichen?",
+    "+002+f-3":{
+      "q":"Was haben sie für Hobbies?",
       "e":"",
-      "t":"radio",
-      "m":true,
+      "t":"text",
+      "m":false,
       "i":"",
-      
-      "o":[
-        
-          "Gewichtsstabilisierung",
-        
-          "Gewichtsreduktion",
-        
-          "Gewichtszunahme",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-8":{
-      "q":"Fühlen Sie sich mit Ihrem Gewicht unwohl?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+003+f-9":{
-      "q":"Mein höchstes Gewicht (in kg) ist/war:",
-      "e":"",
-      "t":"zahl",
-      "m":true,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+004+f-1":{
-      "q":"Haben Sie schon versucht Ihr Gewicht selbstständig zu reduzieren?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+005+f-10":{
-      "q":"Wenn ja, wie oft?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "mehr als 3x",
-        
-          "weniger als 3x",
-        
-          "noch nicht",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+006+f-4":{
-      "q":"Was war Ihr längster Versuch Gewicht zu reduzieren?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "mehr als 2 Monate",
-        
-          "weniger als 2 Monate",
-        
-          "Ich habe noch nicht versucht mein Gewicht zu reduzieren",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+007+f-5":{
-      "q":"Wann war Ihr letzter Versuch Gewicht zu reduzieren?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "mehr als 2 Jahre",
-        
-          "1 - 2 Jahre",
-        
-          "weniger als 1 Jahr",
-        
-          "Ich befinde mich aktuell in Diät- oder Abnehmbemühungen ",
-        
-          "Ich habe noch nicht versucht mein Gewicht zu reduzieren",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+008+f-2":{
-      "q":"Was haben Sie bereits ausprobiert, um Ihr Gewicht zu reduzieren?",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Low Carb",
-        
-          "Eiweißreiche Ernährung",
-        
-          "Kalorien zählen / Punkte zählen",
-        
-          "Fasten (auch Intervallfasten)",
-        
-          "wenig Essen",
-        
-          "viel Sport",
-        
-          "Ich habe noch nicht versucht mein Gewicht selbständig zu reduzieren",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+009+f-11":{
-      "q":"Wie gut können Sie bei eigenen Diät- oder Abnehmbemühungen noch abnehmen?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "gut",
-        
-          "mäßig",
-        
-          "kaum noch",
-        
-          "Ich mache keine eigenen Abnehmbemühungen",
-        
-        "#"
-      ],
-      
+
       "#":0
     },
     
@@ -1331,11 +1317,11 @@
  
  "a-16":{
    "img":"/uploads/essegewohnheiten.png",
-   "title":"6. ESSGEWOHNHEITEN",
+   "title":"Ernährung",
    "intro":"",
    "questions":{
     
-    "+000+f-9":{
+    "+000+f-1":{
       "q":"Verlassen Sie vor 7:00 Uhr das Haus?",
       "e":"",
       "t":"radio",
@@ -1347,6 +1333,8 @@
           "Ja",
         
           "Nein",
+		  
+		  "Manchmal",
         
         "#"
       ],
@@ -1354,8 +1342,8 @@
       "#":0
     },
     
-    "+001+f-1":{
-      "q":"Frühstücken Sie regelmäßig bevor Sie aus dem Haus gehen?",
+    "+001+f-2":{
+      "q":"Frühstücken Sie bevor Sie das Haus verlassen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
@@ -1367,9 +1355,7 @@
         
           "manchmal",
         
-          "eher nicht",
-        
-          "nie",
+          "selten",
         
         "#"
       ],
@@ -1377,8 +1363,8 @@
       "#":0
     },
     
-    "+002+f-8":{
-      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Müsli, Getreide)?  *",
+    "+002+f-3":{
+      "q":"Essen Sie zum Frühstück Kohlehydrate (Brot, Getreide)?  *",
       "e":"&lt;p&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/p&gt;",
       "t":"radio",
       "m":true,
@@ -1386,11 +1372,11 @@
       
       "o":[
         
-          "Ja",
-        
-          "Nein",
+          "immer",
         
           "manchmal",
+        
+          "selten",
         
         "#"
       ],
@@ -1398,7 +1384,7 @@
       "#":0
     },
     
-    "+003+f-2":{
+    "+003+f-4":{
       "q":"Essen Sie regelmäßig bis 14 Uhr Mittagessen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -1409,41 +1395,18 @@
         
           "immer",
         
-          "machmal",
-        
-          "eher nicht",
-        
-          "nie",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+004+f-3":{
-      "q":"Essen Sie zum Mittagessen Kohlehydrate (Kartoffeln, Reis, Pasta)?",
-      "e":"",
-      "t":"radio",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Ja",
-        
-          "Nein",
-        
           "manchmal",
         
+          "selten",
+        
         "#"
       ],
       
       "#":0
     },
     
-    "+005+f-4":{
-      "q":"Ist das Abendessen Ihre Hauptmahlzeit?",
+    "+004+f-5":{
+      "q":"Essen Sie zum Mittagessen Kohlehydrate (Nudeln, Brot, Kartoffeln)?",
       "e":"",
       "t":"radio",
       "m":true,
@@ -1453,9 +1416,9 @@
         
           "immer",
         
-          "häufig",
+          "manchmal",
         
-          "eher nicht",
+          "selten",
         
         "#"
       ],
@@ -1463,9 +1426,70 @@
       "#":0
     },
     
-    "+006+f-5":{
-      "q":"Essen Sie viel Süßigkeiten / salzige Snacks?",
+    "+005+f-6":{
+      "q":"Ist das Abendessen Ihre Hauptmahlzeit?",
       "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+          "häufig",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
+      "q":"Wie viel Wasser trinken Sie am Tag?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "< 2 Liter am Tag",
+        
+          "> 2 Liter am Tag",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+007+f-8":{
+      "q":"Essen Sie Süßes / salzige Snacks?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "täglich",
+        
+          "oft",
+        
+          "selten",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+    
+    "+008+f-9":{
+      "q":"Trinken Sie gerne zuckerhaltige Erfrischungsgetränkte?",
+      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
@@ -1486,375 +1510,110 @@
       "#":0
     },
     
-    "+007+f-6":{
-      "q":"Welche Nahrungsunverträglichkeiten  haben Sie?",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":true,
-      "i":"",
-      
-      "o":[
-        
-          "Laktoseunverträglichkeit",
-        
-          "Glutenunverträglichkeit",
-        
-          "Fruktoseintoleranz",
-        
-          "Histaminunverträglichkeit",
-        
-          "keine Nahrungsmittelunverträglichkeiten",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+008+f-7":{
-      "q":"Haben Sie andere Nahrungsmittelunverträglichkeiten?",
-      "e":"",
-      "t":"langtext",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "#":0
-   }
-},
- 
- "a-17":{
-   "img":"/uploads/eamo_krank_neu.jpg",
-   "title":"7. ERKRANKUNGEN ",
-   "intro":"",
-   "questions":{
-    
-    "+000+f-1":{
-      "q":"Stoffwechselstörungen / Erkrankungen I",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Diabetes mellitus Typ I ",
-        
-          "Diabetes mellitus Typ II",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+001+f-2":{
-      "q":"Stoffwechselstörungen / Erkrankungen II",
-      "e":"",
-      "t":"radio",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Schilddrüsen - Überfunktion",
-        
-          "Schilddrüsen - Unterfunktion",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+002+f-3":{
-      "q":"Stoffwechselstörungen / Erkrankungen III",
-      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Hohe Blutfettwerte",
-        
-          "Hohe Leberwerte",
-        
-          "Hohes Cholesterin",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+003+f-4":{
-      "q":"Herz-Kreislauf",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Bluthochdruck",
-        
-          "Herzrhythmusstörungen",
-        
-          "Herzinsuffizienz (Herzschwäche)",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+004+f-5":{
-      "q":"Psychische Belastungen / Psychische Erkrankungen",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Alltagsstress",
-        
-          "Migräne",
-        
-          "Depressionen / Angststörungen",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+005+f-6":{
-      "q":"Wodurch wird Ihr Alltagsstress ausgelöst?",
-      "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Alltag",
-        
-          "Privat",
-        
-          "Beides",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+006+f-7":{
-      "q":"Leber",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Fettleber",
-        
-          "Erhöhte leberwerte",
-        
-          "Zirrhose",
-        
-          "Hepatitis",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+007+f-8":{
-      "q":"Magen",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Geschwür (gutartig)",
-        
-          "Gastritis (Entzündung)",
-        
-          "Reflux (Sodbrennen)",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+008+f-9":{
-      "q":"Darm",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Dünndarm",
-        
-          "Dickdarm",
-        
-          "Tumor",
-        
-          "Divertikel",
-        
-          "Morbus Crohn",
-        
-          "Colitis ulcerosa",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
     "+009+f-10":{
-      "q":"Nierenerkrankung",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Niereninsuffizienz",
-        
-          "Nierensteine",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+010+f-11":{
-      "q":"Sonstige Tumor / Krebserkrankungen",
+      "q":"Trinken Sie regelmäßig Alkohol?",
       "e":"",
-      "t":"text",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+011+f-12":{
-      "q":"Gelenkerkrankungen",
-      "e":"&lt;p&gt;&lt;em&gt;(Mehrfachauswahl möglich)&lt;/em&gt;&lt;/p&gt;",
-      "t":"checkbox",
-      "m":false,
-      "i":"",
-      
-      "o":[
-        
-          "Arthrose",
-        
-          "Rheuma",
-        
-          "Sonstige Gelenke",
-        
-          "Bandscheibenvorfälle",
-        
-        "#"
-      ],
-      
-      "#":0
-    },
-    
-    "+012+f-16":{
-      "q":"Leiden Sie an einer, oben nicht aufgeführten, Erkrankung? Wenn ja, bitte eingeben!",
-      "e":"",
-      "t":"text",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+013+f-17":{
-      "q":"Hatten Sie eine oder mehrere Operationen? Wenn ja, bitte eingeben!",
-      "e":"",
-      "t":"langtext",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+014+f-13":{
-      "q":"Nehmen Sie Medikamente?",
-      "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
       "i":"",
       
-      "o":[
+	  "o":[
         
-          "ja",
+          "täglich",
+        
+          "häufig",
+        
+          "selten",
+        
+          "nie",
+        
+        "#"
+      ],
+	  
+      "#":0
+    },
+	
+	 "+010+f-11":{
+      "q":"Leiden Sie an Heißhunger-Attacken?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+	  "o":[
+        
+          "Ja",
+        
+          "Manchmal",
         
           "nein",
         
         "#"
       ],
-      
+	  
       "#":0
     },
-    
-    "+015+f-14":{
-      "q":"Wenn ja, welche Medikamente nehmen Sie?",
-      "e":"",
-      "t":"langtext",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+016+f-18":{
-      "q":"Welche derzeitigen Beschwerden gibt es?",
-      "e":"",
-      "t":"text",
-      "m":false,
-      "i":"",
-      
-      "#":0
-    },
-    
-    "+017+f-19":{
-      "q":"Wie sind Sie auf uns aufmerksam geworden?",
+	
+	"+011+f-12":{
+      "q":"Stehen Sie nachts auf um zu essen?",
       "e":"",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
-      "o":[
+	  "o":[
         
-          "Bekannte",
+          "oft",
         
-          "Medien",
+          "manchmal",
         
-          "Internet",
-        
-          "Sonstiges",
+          "nie",
         
         "#"
       ],
+	  
+      "#":0
+    },
+	
+	"+012+f-13":{
+      "q":"Verlieren Sie beim Essen die Kontrolle?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
       
+	  "o":[
+        
+          "häufig",
+        
+          "Nein",
+        
+          "manchmal",
+        
+        "#"
+      ],
+	  
+      "#":0
+    },
+	
+	"+013+f-14":{
+      "q":"Ich ernähre mich",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+	  "o":[
+        
+          "Mischkost",
+        
+          "vegetarisch",
+        
+          "vegan",
+        
+        "#"
+      ],
+	  
       "#":0
     },
     
