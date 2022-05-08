@@ -1622,9 +1622,9 @@
 },
 
  "a-80":{
-   "img":"/uploads/geschafft.jpg",
-   "title":"GESCHAFFT",
-   "intro":"&lt;h1&gt;GESCHAFFT&lt;/h1&gt;&lt;p&gt;Vielen Dank, daß Sie sich die Zeit genommen haben.&lt;/p&gt;&lt;p&gt;Sie können Ihren Fragebogen jetzt absenden und mit der Lebensmittelerfassung beginnen.&lt;/p&gt;",
+   "img":"/uploads/geschafft.png",
+   "title":"Wir danken Ihnen...",
+   "intro":"&lt;p&gt;für Ihre Mitarbeit und senden Ihnen in Kürze eine kleine Analyse Ihrer Angaben zu. Diese ist unverbindlich und soll Ihnen einen kurzen Überblick darüber geben, welche Ernährungs- und Lebensweisen möglicherweise mitverantwortlich für Ihre angegebenen gesundheitlichen Probleme sein können.&lt;/p&gt;&lt;p&gt;Anschliessend informieren wir Sie über weitere Möglichkeiten unserer Software!&lt;/p&gt;",
    "questions":{
     
     "#":0
