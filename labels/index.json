@@ -384,6 +384,28 @@
 	"de":"Beschwerden"
 },
 
+ "Blutdruckprotokoll":{
+  
+"de":"&lt;p&gt;Blutdruckprotokoll&lt;/p&gt;"
+  
+},
+
+"BloodPressure_Headline_Time":{
+	"de":"Uhrzeit der Messung"
+},
+
+"BloodPressure_Headline_Systole":{
+	"de":"Systole"
+},
+
+"BloodPressure_Headline_Diastole":{
+	"de":"Systole"
+},
+
+"BloodPressure_Headline_Puls":{
+	"de":"Systole"
+},
+
 "Add":{
 	"de":"Hinzufügen"
 },
