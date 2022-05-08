@@ -436,7 +436,13 @@
 
  "NutPlan_Intro":{
   
-"de":"&lt;p&gt;Allgemeine Hinweise&lt;/p&gt;"
+"de":"Allgemeine Hinweise"
+  
+},
+
+"NutPlan_Listing":{
+  
+"de":"&lt;ul&gt;&lt;li&gt;Niemals nüchtern aus dem haus gehen und den Tag starten!&lt;/li&gt;&lt;li&gt;Selbst mit dem Hund sollte man nie nüchtern morgens Gassi gehen, wenn ein Gewichtsproblem besteht!&lt;/li&gt;&lt;li&gt;Niemals nüchtern Sport treiben!&lt;/li&gt;&lt;li&gt;Trinken Sie mindestens 1,5-2 Liter&lt;/li&gt;&lt;li&gt;Wasser pro Tag unabhängig von der Trinkmenge an Kaffe/Tee!&lt;/li&gt;&lt;/ul&gt;"
   
 },
 
