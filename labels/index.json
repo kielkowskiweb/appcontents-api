@@ -406,6 +406,28 @@
 	"de":"Puls"
 },
 
+"Sport_Headline_Time":{
+	"de":"Uhrzeit der Aktivität"
+},
+
+"Sport_Headline_Duration":{
+	"de":"Dauer"
+},
+
+"Sport_Headline_Kraftsport":{
+	"de":"Kraftsport"
+},
+
+"Sport_Headline_Ausdauer":{
+	"de":"Ausdauersport"
+},
+
+ "Bewegungsprotokoll":{
+  
+"de":"&lt;p&gt;Bewegungsprotokoll&lt;/p&gt;"
+  
+},
+
 "Add":{
 	"de":"Hinzufügen"
 },
