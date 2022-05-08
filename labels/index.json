@@ -428,6 +428,18 @@
   
 },
 
+ "NutPlan":{
+  
+"de":"&lt;p&gt;Ernährungsplan&lt;/p&gt;"
+  
+},
+
+ "NutPlan_Intro":{
+  
+"de":"&lt;p&gt;Allgemeine Hinweise&lt;/p&gt;"
+  
+},
+
 "Add":{
 	"de":"Hinzufügen"
 },
