@@ -289,6 +289,32 @@
 	"de":"&lt;p&gt;&lt;strong&gt;Liebe Patientinnen und Patienten&lt;/strong&gt;,&lt;/p&gt;&lt;p&gt;Terminvereinbarungen mit unserer Praxis können Sie hier auch außerhalb der Öffnungszeiten 24h an allen Tagen der Woche einfach und bequem online durchführen. Profitieren Sie von einer flexiblen Terminwahl und buchen Sie innerhalb weniger Sekunden Ihren gewünschten Termin.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Versicherungsart angeben&lt;/li&gt;&lt;li&gt;Besuchsgrund wählen&lt;/li&gt;&lt;li&gt;Termin buchen&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Nach der Reservierung erhalten Sie eine E-Mail als Bestätigung für Ihre Terminvereinbarung und vor dem Termin eine Erinnerung per E-Mail &amp; SMS.&lt;/p&gt;"
 
 },
+
+ "Auswertung":{
+  
+"de":"&lt;p&gt;Auswertung&lt;/p&gt;"
+  
+},
+
+"Intro_Text_Auswertung":{
+	
+	"de":"&lt;p&gt;&lt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;"
+
+},
+
+ "Leistungen":{
+  
+"de":"&lt;p&gt;Leistungen&lt;/p&gt;"
+  
+},
+
+"Intro_Text_Services":{
+	
+	"de":"&lt;p&gt;Ab hier können Sie sich einen eigenen Account einrichten und direkte ernährungsmedizinische Leistungen durch einen Arzt oder Ernährungswissenschaftler in Anspruch nehmen.&lt;/p&gt;&lt;p&gt;Diese Software ist medizinisch zertifiziert und kann gegebenenfalls über die Krankenkassen abgerechnet werden. Ebenfalls können die Rechnungen als medizinische Leistung in der Steuererklärung angegeben werden.&lt;/p&gt;&lt;p&gt;Folgende Leistungen können in Anspruch genommen werden:&lt;/p&gt;"
+
+},
+
+
  
  "dummy":true
 }
