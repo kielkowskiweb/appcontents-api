@@ -370,6 +370,20 @@
 	"de":"Gewicht"
 },
 
+ "Symptomprotokoll":{
+  
+"de":"&lt;p&gt;Symptomprotokoll&lt;/p&gt;"
+  
+},
+
+"Symptoms_Headline_Time":{
+	"de":"Uhrzeit der Beschwerden"
+},
+
+"Symptoms_Headline":{
+	"de":"Beschwerden"
+},
+
 "Add":{
 	"de":"Hinzufügen"
 },
