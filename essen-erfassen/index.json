@@ -22,7 +22,7 @@
  
  "Favoriten":{
   
-"de":"&lt;p&gt;Favoriten&lt;/p&gt;"
+"de":"&lt;p&gt;&lt;strong&gt;Favoriten&lt;/strong&gt;&lt;/p&gt;"
   
 },
  
@@ -64,7 +64,7 @@
  
  "Label_Uhrzeit_Mahlzeit":{
   
-"de":"&lt;p&gt;Uhrzeit der Mahlzeit auswählen&lt;/p&gt;"
+"de":"&lt;strong&gt;Uhrzeit der Mahlzeit&lt;/strong&gt;"
   
 },
  
