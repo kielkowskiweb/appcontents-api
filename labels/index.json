@@ -406,6 +406,18 @@
 	"de":"Puls"
 },
 
+"BloodSugar_Headline_Time":{
+	"de":"Uhrzeit der Messung"
+},
+
+"BloodSugar_Headline_Sugar":{
+	"de":"Blutzucker"
+},
+
+"BloodSugar_Headline_Hb1c":{
+	"de":"Hb1c-Wert"
+},
+
 "Sport_Headline_Time":{
 	"de":"Uhrzeit der Aktivität"
 },
