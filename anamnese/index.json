@@ -102,7 +102,7 @@
       "q":"Sind sie schwanger?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
-      "m":true,
+      "m":false,
       "i":"",
       
       "o":[
@@ -199,21 +199,10 @@
 	"+010+f-11":{
       "q":"Harris Benedict Formel",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
+      "t":"zahl",
       "m":true,
       "i":"",
-      "o":[
-        
-          "GU < 1500",
-        
-          "GU > 1500",
-		  
-		  "GU > 2000",
-		  
-		  "GU > 2500",
-        
-        "#"
-      ],
+	  "d":true,
       "#":0
     },
 	
@@ -223,19 +212,7 @@
       "t":"radio",
       "m":true,
       "i":"",
-      "o":[
-        
-          "BMI < 25",
-        
-          "BMI > 25",
-		  
-		  "BMI > 30",
-		  
-		  "BMI > 35",
-		  
-		  "BMI > 40",
-        
-        "#"
+	  "d":true,
       ],
 	  
       "#":0
