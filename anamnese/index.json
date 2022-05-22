@@ -358,9 +358,9 @@
 },
  
  "a-11":{
-   "img":"/uploads/eamo_a11.png",
+   "img":"/uploads/Gesundheit.png",
    "title":"Gesundheit",
-   "intro":"",
+   "intro":"In der Ernährungsmedizin geht es um den Stoffwechsel und seine Funktion. Viele Krankheiten können durch falsche Ernährungs-oder Lebensweisen entstehen. Deshalb gehört Ihr Gesundheitsstatus für uns zu einer professionellen Beratung dazu. Die Ernährung stellt nur einen Teil des Gewichtsproblems dar.",
    "questions":{
     
     "+000+f-1":{
@@ -850,9 +850,9 @@
 },
 
 "a-12":{
-   "img":"/uploads/arbeit.jpg",
+   "img":"/uploads/Lebensfueuhrung.png",
    "title":"Lebensführung",
-   "intro":"",
+   "intro":"Alltagsgewohnheiten entscheiden häufig darüber, wie wir uns fühlen. Unsere Gesundheit und unser Gewicht werden von den alltäglichen Routinen beeinflusst, denen wir uns aussetzen. Verraten Sie uns bitte, welche Faktoren des Alltags Ihr Leben und Ihre Gesundheit prägen.",
    "questions":{
     
     "+000+f-1":{
@@ -975,9 +975,9 @@
 },
 
 "a-13":{
-   "img":"/uploads/sport.jpg",
+   "img":"/uploads/Sport.png",
    "title":"SPORT",
-   "intro":"",
+   "intro":"Sport alleine macht nicht automatisch schlank, erleichtert das Abnehmen jedoch enorm. Auch um nach einer Diät das Gewicht halten zu können, ist kaum etwas so hilfreich wie regelmäßige Bewegung.",
    "questions":{
     
     "+000+f-1":{
@@ -1154,9 +1154,9 @@
 },
 
 "a-14":{
-   "img":"/uploads/schlafen_222.jpg",
+   "img":"/uploads/Schlaf.png",
    "title":"Schlaf",
-   "intro":"",
+   "intro":"Auf Dauer können Schlafmangel und schlechter Schlaf zu Übergewicht und Stoffwechselschäden führen. Bekommt der Körper zu wenig Schlaf, beeinflusst das auch unser Essverhalten negativ. Daher folgen nun gezielte Fragen zu Ihren Schlafgewohnheiten.",
    "questions":{
     
     "+000+f-1":{
@@ -1248,9 +1248,9 @@
 },
 
  "a-15":{
-   "img":"/uploads/diaeten_und_co-1.jpg",
+   "img":"/uploads/Stress.png",
    "title":"Stress",
-   "intro":"",
+   "intro":"Chronischer Stress wirkt sich negativ auf das Hunger- und Sättigungsgefühl aus und kann Ihren Abnehmerfolg behindern. Ein hoher Cortisol Spiegel macht nicht nur Lust auf Süßes, sondern hält auch den Körper permanent in Alarmbereitschaft. Bitte beantworten Sie uns die Fragen zu Ihrem persönlichen Stressempfinden.",
    "questions":{
     
     "+000+f-1":{
@@ -1316,9 +1316,9 @@
 },
 
 "a-16":{
-   "img":"/uploads/essegewohnheiten.png",
+   "img":"/uploads/Ernaehrung.png",
    "title":"Ernährung",
-   "intro":"",
+   "intro":"Unregelmäßige Essenszeiten, einseitige Lebensmittelauswahl, zu viel oder sogar zu wenig Essen: Ihre Ernährungsgewohnheiten haben einen großen Einfluss auf bestehende Gewichtsprobleme. Daher beantworten Sie bitte folgende Fragen zu Ihrem Essverhalten.",
    "questions":{
     
     "+000+f-1":{
