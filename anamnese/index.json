@@ -209,7 +209,7 @@
 	"+011+f-12":{
       "q":"BMI",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
-      "t":"radio",
+      "t":"zahl",
       "m":true,
       "i":"",
 	  "d":true,
