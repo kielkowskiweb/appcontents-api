@@ -1501,6 +1501,7 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen. Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
+	  "f":"togglea12f3",
       "i":"",
       
       "o":[
@@ -1518,8 +1519,30 @@
       
       "#":0
     },
+	
+	"+002+f-3":{
+      "q":"Waren Sie Raucher?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+		  "Nein",
+		
+          "Ja, aufgehört vor über 2 Jahren",
+        
+          "Ja, aufgehört vor weniger als 2 Jahren",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
     
-    "+002+f-3":{
+    "+003+f-4":{
       "q":"Wie arbeiten Sie?",
       "e":"&lt;p&gt;&lt;/p&gt;",
       "t":"radio",
@@ -1542,7 +1565,7 @@
       "#":0
     },
 	
-	"+003+f-4":{
+	"+004+f-5":{
       "q":"Wie lang ist Ihr Arbeitsweg?",
       "e":"&lt;p&gt;&lt;/p&gt;",
       "t":"radio",
@@ -1563,7 +1586,7 @@
       "#":0
     },
     
-    "+004+f-5":{
+    "+005+f-6":{
       "q":"Zu welchen Zeiten arbeiten Sie?",
       "e":"",
       "t":"radio",
