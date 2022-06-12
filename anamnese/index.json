@@ -722,7 +722,7 @@
       "#":0
     },
 	
-	"+009+f-10":{
+	"+011+f-12":{
       "q":"Leiden Sie an einer Schilddrüsenerkrankung?",
       "e":"",
       "t":"radio",
@@ -749,7 +749,7 @@
       "#":0
     },
 	
-	"+010+f-11":{
+	"+012+f-13":{
       "q":"Leiden Sie an einer Herzkrankheit?",
       "e":"",
       "t":"radio",
@@ -772,7 +772,7 @@
       "#":0
     },
 	
-	"+011+f-12":{
+	"+013+f-14":{
       "q":"Leiden Sie an einer Darmerkrankung?",
       "e":"",
       "t":"radio",
@@ -799,7 +799,7 @@
       "#":0
     },
 	
-	"+012+f-13":{
+	"+014+f-15":{
       "q":"Leiden Sie an Verstopfung / Verdauungsproblemen?",
       "e":"",
       "t":"checkbox",
@@ -822,7 +822,7 @@
       "#":0
     },
 	
-	"+013+f-14":{
+	"+015+f-16":{
       "q":"Können sie täglich abführen?",
       "e":"",
       "t":"radio",
@@ -841,7 +841,7 @@
       "#":0
     },
 	
-	"+014+f-15":{
+	"+016+f-17":{
       "q":"Leiden Sie an Gelenkproblemen?",
       "e":"",
       "t":"radio",
@@ -866,7 +866,7 @@
       "#":0
     },
 	
-	"+015+f-16":{
+	"+017+f-18":{
       "q":"Leiden Sie an einer Wirbelsäulenerkrankung?",
       "e":"",
       "t":"radio",
@@ -887,7 +887,7 @@
       "#":0
     },
 	
-	"+016+f-17":{
+	"+018+f-19":{
       "q":"Leiden Sie an Muskelschmerzen?",
       "e":"",
       "t":"radio",
@@ -906,7 +906,7 @@
       "#":0
     },
 	
-	"+017+f-18":{
+	"+019+f-20":{
       "q":"Haben Sie Osteoporose?",
       "e":"",
       "t":"radio",
@@ -927,7 +927,7 @@
       "#":0
     },
 	
-	"+018+f-19":{
+	"+020+f-21":{
       "q":"Leiden Sie an einer psychischen Erkrankung?",
       "e":"",
       "t":"checkbox",
@@ -958,7 +958,7 @@
       "#":0
     },
 	
-	"+019+f-20":{
+	"+021+f-22":{
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
@@ -985,7 +985,7 @@
       "#":0
     },
 	
-	"+020+f-21":{
+	"+022+f-23":{
       "q":"Sind Sie organtransplantiert?",
       "e":"",
       "t":"radio",
@@ -1014,7 +1014,7 @@
       "#":0
     },
 	
-	"+021+f-22":{
+	"+023+f-24":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -1035,7 +1035,7 @@
       "#":0
     },
 	
-	"+022+f-23":{
+	"+024+f-25":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1045,7 +1045,7 @@
       "#":0
     },
 	
-	"+023+f-24":{
+	"+025+f-26":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
