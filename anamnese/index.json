@@ -1183,23 +1183,14 @@
       "e":"",
       "t":"radio",
       "m":true,
+	  "f":"togglea11f36",
       "i":"",
       
       "o":[
         
           "Nein",
         
-          "Niere",
-		  
-		  "Leber",
-		  
-		  "Herz",
-		  
-		  "Lunge",
-		  
-		  "Bauchspeicheldrüse",
-		  
-		  "Dünndarm",
+          "Ja",
 		  
         "#"
       ],
@@ -1208,6 +1199,17 @@
     },
 	
 	"+035+f-36":{
+      "q":"Welches Organ wurde transplantiert?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+036+f-37":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -1229,7 +1231,7 @@
       "#":0
     },
 	
-	"+036+f-37":{
+	"+037+f-38":{
       "q":"In welchem Jahr?",
       "e":"",
       "t":"text",
@@ -1240,7 +1242,7 @@
       "#":0
     },
 	
-	"+037+f-38":{
+	"+038+f-39":{
       "q":"Wie war Ihr Gewicht vor der OP? (in Kg)",
       "e":"",
       "t":"zahl",
@@ -1251,7 +1253,7 @@
       "#":0
     },
 	
-	"+038+f-39":{
+	"+039+f-40":{
       "q":"Was war Ihr niedrigstes Gewicht nach der OP? (in Kg)",
       "e":"",
       "t":"zahl",
@@ -1262,7 +1264,7 @@
       "#":0
     },
 	
-	"+039+f-40":{
+	"+040+f-41":{
       "q":"haben Sie körperliche Beschwerden?",
       "e":"",
       "t":"radio",
@@ -1283,7 +1285,7 @@
       "#":0
     },
 	
-	"+040+f-41":{
+	"+041+f-42":{
       "q":"Welche Beschwerden haben Sie?",
       "e":"",
       "t":"text",
@@ -1294,7 +1296,7 @@
       "#":0
     },
 	
-	"+041+f-42":{
+	"+042+f-43":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1304,7 +1306,7 @@
       "#":0
     },
 	
-	"+042+f-43":{
+	"+043+f-44":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
