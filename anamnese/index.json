@@ -54,6 +54,7 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
+	  "f":"togglea10f11",
       "i":"",
       
       "o":[
@@ -154,7 +155,6 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":false,
-	  "dfo":true,
       "i":"",
       
       "o":[
