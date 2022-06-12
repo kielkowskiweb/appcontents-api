@@ -844,7 +844,7 @@
     },
 	
 	"+017+f-18":{
-      "q":"Leiden Sie an einer Magenerkrankung?",
+      "q":"Leiden sie an einer der folgenden Magenerkrankungen?",
       "e":"",
       "t":"radio",
       "m":false,
@@ -886,6 +886,7 @@
       "e":"",
       "t":"checkbox",
       "m":true,
+	  "f":"togglea11f21",
       "i":"",
       
       "o":[
@@ -906,7 +907,8 @@
       "q":"Können sie täglich abführen?",
       "e":"",
       "t":"radio",
-      "m":true,
+      "m":false,
+	  "dfo":true,
       "i":"",
       
       "o":[
