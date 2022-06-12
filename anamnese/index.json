@@ -980,6 +980,25 @@
     },
 	
 	"+024+f-25":{
+      "q":"Leiden Sie an Gallensteine?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+025+f-26":{
       "q":"Leiden Sie an Gelenkproblemen?",
       "e":"",
       "t":"radio",
@@ -1004,7 +1023,7 @@
       "#":0
     },
 	
-	"+025+f-26":{
+	"+026+f-27":{
       "q":"Leiden Sie an einer Wirbelsäulenerkrankung?",
       "e":"",
       "t":"radio",
@@ -1025,7 +1044,7 @@
       "#":0
     },
 	
-	"+026+f-27":{
+	"+027+f-28":{
       "q":"Leiden Sie an Muskelschmerzen?",
       "e":"",
       "t":"radio",
@@ -1044,7 +1063,7 @@
       "#":0
     },
 	
-	"+027+f-28":{
+	"+028+f-29":{
       "q":"Haben Sie Osteoporose?",
       "e":"",
       "t":"radio",
@@ -1065,7 +1084,7 @@
       "#":0
     },
 	
-	"+028+f-29":{
+	"+029+f-30":{
       "q":"Leiden Sie an einer psychischen Erkrankung?",
       "e":"",
       "t":"checkbox",
@@ -1096,7 +1115,7 @@
       "#":0
     },
 	
-	"+029+f-30":{
+	"+030+f-31":{
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
@@ -1123,7 +1142,7 @@
       "#":0
     },
 	
-	"+030+f-31":{
+	"+031+f-32":{
       "q":"Sind Sie organtransplantiert?",
       "e":"",
       "t":"radio",
@@ -1152,7 +1171,7 @@
       "#":0
     },
 	
-	"+031+f-32":{
+	"+032+f-33":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -1173,7 +1192,7 @@
       "#":0
     },
 	
-	"+032+f-33":{
+	"+033+f-34":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1183,7 +1202,7 @@
       "#":0
     },
 	
-	"+033+f-34":{
+	"+034+f-35":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
