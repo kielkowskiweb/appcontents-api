@@ -1315,6 +1315,151 @@
 	  
       "#":0
     },
+	
+	"+044+f-45":{
+      "q":"Haben Sie eine Nahrungsmittel/-unverträglichkeit?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+	  "f":"togglea11f46",
+      "i":"",
+      
+      "o":[
+        
+          "Ja",
+        
+          "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+045+f-46":{
+      "q":"Haben Sie eine Laktoseintoleranz?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "mit Atemtest nachgewiesen",
+        
+          "mit Bluttest nachgewiesen",
+		  
+		  "Ja, vermutlich",
+		  
+		  "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+046+f-47":{
+      "q":"Haben Sie eine Fruktoseintoleranz?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "mit Atemtest nachgewiesen",
+        
+          "mit Bluttest nachgewiesen",
+		  
+		  "Ja, vermutlich",
+		  
+		  "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+047+f-48":{
+      "q":"Haben Sie eine Glutenunverträglichkeit?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "mit Darmspiegelung nachgewiesen",
+        
+          "mit Bluttest nachgewiesen",
+		  
+		  "Ja, vermutlich",
+		  
+		  "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+048+f-49":{
+      "q":"Haben Sie eine Histaminintoleranz?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "Ja, nachweislich getestet",
+		  
+		  "Ja, vermutlich",
+		  
+		  "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+049+f-50":{
+      "q":"Haben Sie Zölliakie?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+		  
+		  "histologisch gesichert",
+		  
+		  "Nein",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+050+f-51":{
+      "q":"Haben Sie sonstige Nahrungmittelallergien/-unverträglichkeiten?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+	  
+      "#":0
+    },
     
     "#":0
    }
