@@ -109,7 +109,6 @@
       "i":"",
 	  "d":true,
       "#":0
-
     },
 	
 	"+007+f-8":{
@@ -207,8 +206,8 @@
       "#":0
     },
 	
-	"+0012+f-13":{
-      "q":"Seit wann haben sSie Gewichtsprobleme?",
+	"+012+f-13":{
+      "q":"Seit wann haben Sie Gewichtsprobleme?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
