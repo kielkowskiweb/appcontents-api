@@ -55,11 +55,12 @@
       "t":"radio",
       "m":true,
       "i":"",
-	  "displayField": [
-		[
+	  "displayField":[
+
 			"f-11",
-			["Weiblich"],
-		],
+
+			"Weiblich",
+
 	  ],	  
       "o":[
         
