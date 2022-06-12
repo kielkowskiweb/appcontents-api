@@ -259,6 +259,7 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
+	  "f":"togglea10f16",
       "i":"",
       "o":[
         
@@ -271,7 +272,43 @@
       "#":0
     },
 	
-    "+015+f-16":{
+	"+015+f-16":{
+      "q":"Wie äussert sich dieser Einfluß?",
+      "e":"",
+      "t":"checkbox",
+      "m":false,
+	  "dfo":true,
+	  "f":"togglea10f17",
+      "i":"",
+      "o":[
+        
+          "vermindertes Selbstwertgef.",
+        
+          "auf Partnerschaft & Sexualität",
+		  
+		  "Schamgefühl vor anderen",
+        
+          "sozialer Rückzug",
+        
+          "Sonstiges",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+016+f-17":{
+      "q":"Bitte Beschreiben sie den Einfluß:",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+    "+017+f-18":{
       "q":"Haben Sie schon einmal versucht Ihr Gewicht zu reduzieren?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -290,7 +327,7 @@
       "#":0
     },
 	
-	"+016+f-17":{
+	"+018+f-19":{
       "q":"Mein längster Abnehmversuch dauerte (inkl. Intervall-Fasten)",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -307,7 +344,7 @@
       "#":0
     },
 	
-	"+017+f-18":{
+	"+019+f-20":{
       "q":"Mein letzter Abnehmversuch (inkl. Intervall-Fasten) war...",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
@@ -326,7 +363,7 @@
       "#":0
     },
 	
-	"+018+f-19":{
+	"+020+f-21":{
       "q":"Welche Diäten haben sie bereits ausprobiert?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
@@ -363,7 +400,7 @@
       "#":0
     },
 	
-	"+019+f-20":{
+	"+021+f-22":{
       "q":"Wie gut können Sie noch abnehmen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
