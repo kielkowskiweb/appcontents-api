@@ -1003,6 +1003,7 @@
       "e":"",
       "t":"radio",
       "m":true,
+	  "f":"togglea11f27",
       "i":"",
       
       "o":[
@@ -1019,6 +1020,17 @@
 		  
         "#"
       ],
+      
+      "#":0
+    },
+	
+	"+026+f-27":{
+      "q":"An welcher Arthrose leidern Sie?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
       
       "#":0
     },
