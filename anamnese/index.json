@@ -298,7 +298,7 @@
     },
 	
 	"+016+f-17":{
-      "q":"Bitte Beschreiben sie den Einfluß:",
+      "q":"Bitte beschreiben sie den Einfluß:",
       "e":"",
       "t":"text",
       "m":false,
@@ -313,10 +313,27 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
       "m":true,
+	  "f":"togglea10f19",
       "i":"",
       "o":[
         
+		  "Ja",
+		  
           "Noch nie",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+018+f-19":{
+      "q":"Wie oft haben sie dies bereits versucht?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      "o":[
         
           "Öfter als 3 Mal",
 		  
