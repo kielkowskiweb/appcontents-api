@@ -924,6 +924,62 @@
     },
 	
 	"+021+f-22":{
+      "q":"Leiden Sie an einer Bauchspeicheldrüsenerkrankung?",
+      "e":"",
+      "t":"radio",
+      "m":true,
+	  "f":"togglea11f23",
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+022+f-23":{
+      "q":"Leiden sie an einer der folgenden Bauchspeicheldrüsenerkrankungen?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "f":"togglea11f24",
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "Pankreatitis",
+        
+          "Bauchspeicheldrüsen-insuffizienz",
+		  
+		  "Bauchspeicheldrüsen-karzinom",
+		  
+		  "Sonstige",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+023+f-24":{
+      "q":"An welcher Bauchspeicheldrüsenerkrankung leidern Sie?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+024+f-25":{
       "q":"Leiden Sie an Gelenkproblemen?",
       "e":"",
       "t":"radio",
@@ -948,7 +1004,7 @@
       "#":0
     },
 	
-	"+022+f-23":{
+	"+025+f-26":{
       "q":"Leiden Sie an einer Wirbelsäulenerkrankung?",
       "e":"",
       "t":"radio",
@@ -969,7 +1025,7 @@
       "#":0
     },
 	
-	"+023+f-24":{
+	"+026+f-27":{
       "q":"Leiden Sie an Muskelschmerzen?",
       "e":"",
       "t":"radio",
@@ -988,7 +1044,7 @@
       "#":0
     },
 	
-	"+024+f-25":{
+	"+027+f-28":{
       "q":"Haben Sie Osteoporose?",
       "e":"",
       "t":"radio",
@@ -1009,7 +1065,7 @@
       "#":0
     },
 	
-	"+025+f-26":{
+	"+028+f-29":{
       "q":"Leiden Sie an einer psychischen Erkrankung?",
       "e":"",
       "t":"checkbox",
@@ -1040,7 +1096,7 @@
       "#":0
     },
 	
-	"+026+f-27":{
+	"+029+f-30":{
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
@@ -1067,7 +1123,7 @@
       "#":0
     },
 	
-	"+027+f-28":{
+	"+030+f-31":{
       "q":"Sind Sie organtransplantiert?",
       "e":"",
       "t":"radio",
@@ -1096,7 +1152,7 @@
       "#":0
     },
 	
-	"+028+f-29":{
+	"+031+f-32":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -1117,7 +1173,7 @@
       "#":0
     },
 	
-	"+029+f-30":{
+	"+032+f-33":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1127,7 +1183,7 @@
       "#":0
     },
 	
-	"+030+f-31":{
+	"+033+f-34":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
