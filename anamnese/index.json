@@ -1212,6 +1212,7 @@
       "e":"",
       "t":"radio",
       "m":true,
+	  "f":"togglea11f37",
       "i":"",
       
       "o":[
@@ -1229,6 +1230,71 @@
     },
 	
 	"+036+f-37":{
+      "q":"In welchem Jahr?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+	  
+      "#":0
+    },
+	
+	"+037+f-38":{
+      "q":"Wie war Ihr Gewicht vor der OP? (in Kg)",
+      "e":"",
+      "t":"zahl",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+	  
+      "#":0
+    },
+	
+	"+038+f-39":{
+      "q":"Was war Ihr niedrigstes Gewicht nach der OP? (in Kg)",
+      "e":"",
+      "t":"zahl",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+	  
+      "#":0
+    },
+	
+	"+039+f-40":{
+      "q":"haben Sie körperliche Beschwerden?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+	  "f":"togglea11f41",
+      "i":"",
+      
+      "o":[
+        
+          "Nein",
+        
+          "Ja",
+		  
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+040+f-41":{
+      "q":"Welche Beschwerden haben Sie?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+	  
+      "#":0
+    },
+	
+	"+041+f-42":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1238,7 +1304,7 @@
       "#":0
     },
 	
-	"+037+f-38":{
+	"+042+f-43":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
