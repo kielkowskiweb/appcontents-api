@@ -1113,6 +1113,7 @@
       "e":"",
       "t":"checkbox",
       "m":true,
+	  "f":"togglea11f33",
       "i":"",
       
       "o":[
@@ -1140,6 +1141,17 @@
     },
 	
 	"+032+f-33":{
+      "q":"An welcher psychischen Erkrankung leiden Sie?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+033+f-34":{
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
@@ -1166,7 +1178,7 @@
       "#":0
     },
 	
-	"+033+f-34":{
+	"+034+f-35":{
       "q":"Sind Sie organtransplantiert?",
       "e":"",
       "t":"radio",
@@ -1195,7 +1207,7 @@
       "#":0
     },
 	
-	"+034+f-35":{
+	"+035+f-36":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -1216,7 +1228,7 @@
       "#":0
     },
 	
-	"+035+f-36":{
+	"+036+f-37":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -1226,7 +1238,7 @@
       "#":0
     },
 	
-	"+036+f-37":{
+	"+037+f-38":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
