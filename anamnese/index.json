@@ -599,6 +599,7 @@
       "e":"",
       "t":"radio",
       "m":true,
+	  "f":"togglea11f6",
       "i":"",
       
       "o":[
@@ -614,6 +615,17 @@
     },
 	
 	"+005+f-6":{
+      "q":"An welcher Krebserkrankung leiden sie?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+006+f-7":{
       "q":"Leiden Sie an einer Nierenerkrankung?",
       "e":"",
       "t":"radio",
@@ -639,7 +651,7 @@
 	  
     },
 	
-	"+006+f-7":{
+	"+007+f-8":{
       "q":"Leiden Sie an einer Lebererkrankung?",
       "e":"",
       "t":"radio",
@@ -664,7 +676,7 @@
       "#":0
     },
 	
-	"+007+f-8":{
+	"+008+f-9":{
       "q":"Leiden Sie an einer Schilddrüsenerkrankung?",
       "e":"",
       "t":"radio",
@@ -691,7 +703,7 @@
       "#":0
     },
 	
-	"+008+f-9":{
+	"+009+f-10":{
       "q":"Leiden Sie an einer Herzkrankheit?",
       "e":"",
       "t":"radio",
@@ -714,7 +726,7 @@
       "#":0
     },
 	
-	"+009+f-10":{
+	"+010+f-11":{
       "q":"Leiden Sie an einer Darmerkrankung?",
       "e":"",
       "t":"radio",
@@ -741,7 +753,7 @@
       "#":0
     },
 	
-	"+010+f-11":{
+	"+011+f-12":{
       "q":"Leiden Sie an Verstopfung / Verdauungsproblemen?",
       "e":"",
       "t":"checkbox",
@@ -764,7 +776,7 @@
       "#":0
     },
 	
-	"+011+f-12":{
+	"+012+f-13":{
       "q":"Können sie täglich abführen?",
       "e":"",
       "t":"radio",
@@ -783,7 +795,7 @@
       "#":0
     },
 	
-	"+012+f-13":{
+	"+013+f-14":{
       "q":"Leiden Sie an Gelenkproblemen?",
       "e":"",
       "t":"radio",
@@ -808,7 +820,7 @@
       "#":0
     },
 	
-	"+013+f-14":{
+	"+014+f-15":{
       "q":"Leiden Sie an einer Wirbelsäulenerkrankung?",
       "e":"",
       "t":"radio",
@@ -829,7 +841,7 @@
       "#":0
     },
 	
-	"+014+f-15":{
+	"+015+f-16":{
       "q":"Leiden Sie an Muskelschmerzen?",
       "e":"",
       "t":"radio",
@@ -848,7 +860,7 @@
       "#":0
     },
 	
-	"+015+f-16":{
+	"+016+f-17":{
       "q":"Haben Sie Osteoporose?",
       "e":"",
       "t":"radio",
@@ -869,7 +881,7 @@
       "#":0
     },
 	
-	"+016+f-17":{
+	"+017+f-18":{
       "q":"Leiden Sie an einer psychischen Erkrankung?",
       "e":"",
       "t":"checkbox",
@@ -900,7 +912,7 @@
       "#":0
     },
 	
-	"+017+f-18":{
+	"+018+f-19":{
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
@@ -927,7 +939,7 @@
       "#":0
     },
 	
-	"+018+f-19":{
+	"+019+f-20":{
       "q":"Sind Sie organtransplantiert?",
       "e":"",
       "t":"radio",
@@ -956,7 +968,7 @@
       "#":0
     },
 	
-	"+019+f-20":{
+	"+020+f-21":{
       "q":"Haben Sie einen Magenbypass oder Schlauchmagen?",
       "e":"",
       "t":"radio",
@@ -977,7 +989,7 @@
       "#":0
     },
 	
-	"+020+f-21":{
+	"+021+f-22":{
       "q":"Leiden Sie an einer nicht aufgeführten Krankheit?",
       "e":"",
       "t":"text",
@@ -987,7 +999,7 @@
       "#":0
     },
 	
-	"+021+f-22":{
+	"+022+f-23":{
       "q":"Nehmen Sie Medikamente?",
       "e":"",
       "t":"text",
