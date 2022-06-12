@@ -668,6 +668,7 @@
       "e":"",
       "t":"radio",
       "m":true,
+	  "f":"togglea11f10",
       "i":"",
       
       "o":[
@@ -684,6 +685,39 @@
         
         "#"
       ],
+      
+      "#":0
+    },
+	
+	"+009+f-10":{
+      "q":"Welcher Hepatitis Typ?",
+      "e":"",
+      "t":"radio",
+      "m":`false,
+	  "dfo":true,
+      "i":"",
+      
+      "o":[
+        
+          "Typ A",
+        
+          "Typ B",
+		  
+		  "Typ C",
+        
+        "#"
+      ],
+      
+      "#":0
+    },
+	
+	"+010+f-11":{
+      "q":"In welchem Jahr war die Transplantation?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
       
       "#":0
     },
