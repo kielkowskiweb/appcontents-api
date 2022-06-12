@@ -397,6 +397,7 @@
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"checkbox",
       "m":true,
+	  "f":"togglea10f24",
       "i":"",
       "o":[
         
@@ -430,6 +431,46 @@
     },
 	
 	"+023+f-24":{
+      "q":"Welche Diät haben Sie bereits probiert?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+024+f-25":{
+      "q":"Welche Medikamente haben sie ausprobiert?",
+      "e":"",
+      "t":"text",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      
+      "#":0
+    },
+	
+	"+025+f-26":{
+      "q":"Wie lange haben sie diese Diät gemacht?",
+      "e":"",
+      "t":"radio",
+      "m":false,
+	  "dfo":true,
+      "i":"",
+      "o":[
+        
+          "weniger als 6 Monate",
+        
+          "länger als 6 Monate",
+        
+        "#"
+      ],
+      "#":0
+    },
+	
+	"+026+f-27":{
       "q":"Wie gut können Sie noch abnehmen?",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
