@@ -113,7 +113,7 @@
       "q":"Mein aktuelles Gewicht ist:",
       "e":"&lt;p&gt;&lt;em&gt;Das ist ein Pflichtfeld, bitte zwingend ausfüllen.&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
-      "m":false,
+      "m":true,
       "i":"",
       
       "o":[
@@ -456,8 +456,7 @@
       "q":"Wie lange haben sie diese Diät gemacht?",
       "e":"",
       "t":"radio",
-      "m":false,
-	  "dfo":true,
+      "m":true,
       "i":"",
       "o":[
         
