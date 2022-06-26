@@ -514,7 +514,7 @@
         
           "Hohe Blutfettwerte",
         
-          "Hohe Leber Fettwerte",
+          "Erhöhte Leberwerte",
         
           "erhöhtes Cholesterin",
 		  
@@ -529,8 +529,6 @@
 		  "anormale Schilddrüsen Werte",
 		  
 		  "hohe Blutzuckerwerte",
-		  
-		  "Sonstige",
 		  
 		  "nicht kontrolliert",
         
@@ -1156,7 +1154,7 @@
       "q":"Sind in Ihrer direkten Familie folgende der Erkrankungen bekannt?",
       "e":"",
       "t":"checkbox",
-      "m":true,
+      "m":false,
       "i":"",
       
       "o":[
@@ -1386,7 +1384,7 @@
     },
 	
 	"+047+f-48":{
-      "q":"Haben Sie eine Glutenunverträglichkeit?",
+      "q":"Haben Sie eine Glutensensitivität?",
       "e":"",
       "t":"radio",
       "m":false,
@@ -1624,6 +1622,7 @@
       "q":"Treiben Sie Sport?",
       "e":"&lt;p&gt;&lt;em&gt;Mehrfachauswahl möglich&lt;/em&gt;&lt;/p&gt;",
       "t":"radio",
+	  "f":"togglea13f3",
       "m":true,
       "i":"",
       
@@ -1665,6 +1664,7 @@
       "e":"",
       "t":"radio",
       "m":false,
+	  "dfo":true,
       "i":"",
       
       "o":[
@@ -1689,7 +1689,8 @@
       "q":"Treiben Sie auf nüchternen Magen Sport?",
       "e":"",
       "t":"radio",
-      "m":true,
+      "m":false,
+	  "dfo":true,
       "i":"",
       
       "o":[
@@ -1711,6 +1712,7 @@
       "e":"",
       "t":"radio",
       "m":false,
+	  "dfo":true,
       "i":"",
       
       "o":[
@@ -1732,6 +1734,7 @@
       "e":"",
       "t":"checkbox",
       "m":false,
+	  "dfo":true,
 	  "f":"togglea13f7",
       "i":"",
       
@@ -1777,6 +1780,7 @@
       "e":"",
       "t":"radio",
       "m":false,
+	  "dfo":true,
 	  "f":"togglea13f9",
       "i":"",
       
