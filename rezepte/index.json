@@ -40,7 +40,7 @@
  
  "Eigenes_Rezept_Schritt2":{
   
-"de":"&lt;p&gt;&lt;strong&gt;Schritt 2: Personen&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Für wieviele Personen ist Ihr Rezept gedacht&lt;/em&gt;&lt;/p&gt;"
+"de":"&lt;p&gt;Für wieviele Personen ist Ihr Rezept gedacht&lt;/p&gt;"
   
 },
  
@@ -52,19 +52,19 @@
  
  "Eigenes_Rezept_Schritt4":{
   
-"de":"&lt;p&gt;&lt;strong&gt;Schritt 4: Zubereitung&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Beschreibung der Zubereitung&lt;/em&gt;&lt;/p&gt;"
+"de":"&lt;p&gt;Zubereitung&lt;/p&gt;"
   
 },
  
  "Eigenes_Rezept_Schritt3":{
   
-"de":"&lt;p&gt;&lt;strong&gt;Schritt 3: Zutaten&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Diese Zutaten werden benötigt&lt;/em&gt;&lt;/p&gt;"
+"de":"&lt;p&gt;Diese Zutaten werden benötigt&lt;/p&gt;"
   
 },
  
  "Eigenes_Rezept_Schritt1":{
   
-"de":"&lt;p&gt;&lt;em&gt;Geben Sie Ihrem Rezept einen Titel&lt;/em&gt;&lt;/p&gt;"
+"de":"&lt;p&gt;Geben Sie Ihrem Rezept einen Titel&lt;/p&gt;"
   
 },
  
